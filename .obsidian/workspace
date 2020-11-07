@@ -1,0 +1,99 @@
+{
+  "main": {
+    "id": "74ff21e89e8ead0a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba461febcf18e4ce",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Software Engineering/Network Engineering/Port Forwarding.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "715cce17cdf7d5f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "e04b1d6ac2b623fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c05412359b7f622",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6b3a587dcb03298a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#softwareEng"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 259
+  },
+  "right": {
+    "id": "2120d96e7bb5030a",
+    "type": "split",
+    "children": [
+      {
+        "id": "3cae3e8ad83e1875",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ab1bd8ed9f0814e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Software Engineering/Network Engineering/Port Forwarding.md"
+              }
+            }
+          },
+          {
+            "id": "499737762dd498d4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Software Engineering/Network Engineering/Port Forwarding.md",
+    "Software Engineering/Network Engineering/HTTP-1.1.md",
+    "Software Engineering/Network Engineering/HTTP-2.md",
+    "Software Engineering/Network Engineering/HTTP-3.md",
+    "HOL Blocking.md",
+    "Software Engineering/Network Engineering/HTTP-1.md",
+    "Software Engineering/Network Engineering/L4 Transport Layer.md",
+    "ALPN.md",
+    "Software Engineering/Network Engineering/Screen Shot 2020-11-07 at 7.53.16 pm.png",
+    "Software Engineering/Network Engineering/Screen Shot 2020-11-07 at 4.43.30 pm.png"
+  ]
+}
