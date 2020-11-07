@@ -7,6 +7,7 @@ A request made to the server. It contains:
 - Header
 - Body
 
+
 # Different HTTP Versions
 - [[HTTP-1]]
 - [[HTTP-1.1]]

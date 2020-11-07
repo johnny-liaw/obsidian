@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Software Engineering/Network Engineering/HTTP.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -60,7 +63,9 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {}
+              "state": {
+                "file": "Software Engineering/Network Engineering/HTTP.md"
+              }
             }
           },
           {
@@ -80,6 +85,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Software Engineering/Network Engineering/HTTP.md",
     "Software Engineering/Network Engineering/HOL Blocking.md",
     "Software Engineering/Network Engineering/Port Forwarding.md",
     "Software Engineering/Network Engineering/HTTP-1.1.md",
@@ -88,7 +94,6 @@
     "HOL Blocking.md",
     "Software Engineering/Network Engineering/HTTP-1.md",
     "Software Engineering/Network Engineering/L4 Transport Layer.md",
-    "ALPN.md",
-    "Software Engineering/Network Engineering/Screen Shot 2020-11-07 at 7.53.16 pm.png"
+    "ALPN.md"
   ]
 }
