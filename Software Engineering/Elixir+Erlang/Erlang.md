@@ -7,3 +7,6 @@ A language designed to provide fault tolerance, concurrency, scalability, respon
 	- BEAM uses multiple schedulers.
 		- Each scheduler is an OS thread.
 			- Each scheduler is responsible for multiple [[Erlang Processes]].
+
+# Features of Erlang
+- [[Erlang Features/Fault Tolerance]]
