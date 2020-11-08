@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Software Engineering/Processing/Synchronous Processing.md",
-            "mode": "source"
+            "file": "Software Engineering/Processing/Asynchronous Processing.md",
+            "mode": "preview"
           }
         }
       }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/Processing/Synchronous Processing.md"
+                "file": "Software Engineering/Processing/Asynchronous Processing.md"
               }
             }
           },
@@ -85,8 +85,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Software Engineering/Processing/Synchronous Processing.md",
     "Software Engineering/Processing/Asynchronous Processing.md",
+    "Software Engineering/Processing/Synchronous Processing.md",
     "Software Engineering/Processing/Parallelism.md",
     "Software Engineering/Processing/Concurrency.md",
     "Software Engineering/Processing/Multithreading Processing.md",
