@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Software Engineering/Processing/Different Job Processing Types.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -60,7 +63,9 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {}
+              "state": {
+                "file": "Software Engineering/Processing/Different Job Processing Types.md"
+              }
             }
           },
           {
@@ -80,15 +85,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Software Engineering/Processing/Different Job Processing Types.md",
+    "Software Engineering/Processing/Multiprocess Processing.md",
+    "Software Engineering/Processing/Asynchronous Processing.md",
+    "Software Engineering/Processing/Multithreading Processing.md",
+    "Untitled.md",
     "Software Engineering/Network Engineering/HTTP.md",
     "Software Engineering/Network Engineering/L7 Application Layer.md",
     "Software Engineering/Network Engineering/Protocol Negotiation.md",
     "Software Engineering/Network Engineering/Stream ID.md",
-    "Software Engineering/Network Engineering/HOL Blocking.md",
-    "Software Engineering/Network Engineering/HTTP-3.md",
-    "Software Engineering/Network Engineering/HTTP-2.md",
-    "Software Engineering/Network Engineering/HTTP-1.1.md",
-    "Software Engineering/Network Engineering/HTTP-1.md",
-    "Software Engineering/Network Engineering/Session ID.md"
+    "Software Engineering/Network Engineering/HOL Blocking.md"
   ]
 }
