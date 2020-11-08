@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Software Engineering/Tooling/Erlang + Elixir/Erlang Processes.md",
-            "mode": "source"
+            "file": "Software Engineering/Tooling/Erlang + Elixir/Erlang Distribution.md",
+            "mode": "preview"
           }
         }
       }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/Tooling/Erlang + Elixir/Erlang Processes.md"
+                "file": "Software Engineering/Tooling/Erlang + Elixir/Erlang Distribution.md"
               }
             }
           },
@@ -85,15 +85,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Software Engineering/Tooling/Erlang + Elixir/Erlang Distribution.md",
+    "Software Engineering/Tooling/Erlang + Elixir/Erlang Responsiveness.md",
     "Software Engineering/Tooling/Erlang + Elixir/Erlang Processes.md",
+    "Software Engineering/Tooling/Erlang + Elixir/Erlang.md",
     "Software Engineering/Tooling/Erlang.md",
     "Software Engineering/Tooling/Erlang Distribution.md",
     "Software Engineering/Tooling/Erlang Fault Tolerance.md",
     "Software Engineering/Tooling/Erlang Scalability.md",
     "Software Engineering/Tooling/Erlang Responsiveness.md",
-    "Software Engineering/Languages & Frameworks/Erlang.md",
-    "Software Engineering/Languages & Frameworks/Erlang Processes.md",
-    "Software Engineering/Elixir+Erlang/Erlang.md",
-    "Software Engineering/Elixir+Erlang/Erlang Processes.md"
+    "Software Engineering/Languages & Frameworks/Erlang.md"
   ]
 }
