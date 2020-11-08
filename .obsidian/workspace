@@ -8,11 +8,8 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Software Engineering/Processing/Different Job Processing Types.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -63,9 +60,7 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {
-                "file": "Software Engineering/Processing/Different Job Processing Types.md"
-              }
+              "state": {}
             }
           },
           {
@@ -85,10 +80,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Software Engineering/Processing/Different Job Processing Types.md",
     "Software Engineering/Processing/Multiprocess Processing.md",
-    "Software Engineering/Processing/Asynchronous Processing.md",
     "Software Engineering/Processing/Multithreading Processing.md",
+    "Software Engineering/Processing/Asynchronous Processing.md",
+    "Software Engineering/Processing/Different Job Processing Types.md",
     "Untitled.md",
     "Software Engineering/Network Engineering/HTTP.md",
     "Software Engineering/Network Engineering/L7 Application Layer.md",
