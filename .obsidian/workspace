@@ -8,11 +8,8 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Software Engineering/Network Engineering/L5 Session Layer.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -63,9 +60,7 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {
-                "file": "Software Engineering/Network Engineering/L5 Session Layer.md"
-              }
+              "state": {}
             }
           },
           {
@@ -85,6 +80,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Software Engineering/Network Engineering/Session ID.md",
     "Software Engineering/Network Engineering/L5 Session Layer.md",
     "Software Engineering/Network Engineering/_png/Screen Shot 2020-11-08 at 3.34.40 pm.png",
     "Screen Shot 2020-11-08 at 3.34.40 pm.png",
@@ -93,7 +89,6 @@
     "Software Engineering/Network Engineering/HOL Blocking.md",
     "Software Engineering/Network Engineering/HTTP-1.1.md",
     "Software Engineering/Network Engineering/HTTP-1.md",
-    "Software Engineering/Network Engineering/ALPN.md",
-    "Software Engineering/Network Engineering/Network Routing.md"
+    "Software Engineering/Network Engineering/ALPN.md"
   ]
 }
