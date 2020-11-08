@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Software Engineering/Elixir+Erlang/Erlang.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -60,7 +63,9 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {}
+              "state": {
+                "file": "Software Engineering/Elixir+Erlang/Erlang.md"
+              }
             }
           },
           {
@@ -80,6 +85,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Untitled.md",
     "Software Engineering/Network Engineering/HTTP.md",
     "Software Engineering/Processing/Stack.md",
     "Software Engineering/Processing/Memory.md",
@@ -88,7 +94,6 @@
     "Software Engineering/Processing/Heap.md",
     "Software Engineering/Processing/Concurrency.md",
     "Software Engineering/Processing/Parallelism.md",
-    "Software Engineering/Processing/Synchronous Processing.md",
-    "Software Engineering/Processing/Asynchronous Processing.md"
+    "Software Engineering/Processing/Synchronous Processing.md"
   ]
 }
