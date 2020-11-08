@@ -5,6 +5,9 @@
 	- each request assigned with a unique [[StreamID]]
 
 ### 2. Server Push
+- server can push resources to client without client requesting them. 
+	- can be used for loading resources preemptively
+	- notifications
 
 
 ### 3. [[Protocol Negotiation]] during TLS
