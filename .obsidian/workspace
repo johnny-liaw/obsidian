@@ -80,6 +80,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Software Engineering/Network Engineering/HTTP.md",
+    "Software Engineering/Network Engineering/L7 Application Layer.md",
     "Software Engineering/Network Engineering/Protocol Negotiation.md",
     "Software Engineering/Network Engineering/Stream ID.md",
     "Software Engineering/Network Engineering/HOL Blocking.md",
@@ -87,8 +89,6 @@
     "Software Engineering/Network Engineering/HTTP-2.md",
     "Software Engineering/Network Engineering/HTTP-1.1.md",
     "Software Engineering/Network Engineering/HTTP-1.md",
-    "Software Engineering/Network Engineering/HTTP.md",
-    "Software Engineering/Network Engineering/Session ID.md",
-    "Software Engineering/Network Engineering/L5 Session Layer.md"
+    "Software Engineering/Network Engineering/Session ID.md"
   ]
 }

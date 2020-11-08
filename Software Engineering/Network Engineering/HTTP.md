@@ -6,6 +6,7 @@ A request made to the server. It contains:
 - Action
 - Header
 - Body
+- if it's operating in HTTP/2 or higher, it assigns a [[Stream ID]] to the message.
 
 
 # Different HTTP Versions
