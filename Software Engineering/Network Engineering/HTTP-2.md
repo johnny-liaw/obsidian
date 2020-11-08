@@ -14,4 +14,8 @@
 ### 2. Server Push
 
 
-### 3. [[Protocol Negotiation]] during TLS;.
+### 3. [[Protocol Negotiation]] during TLS
+
+### 4. Compression (headers + data)
+
+### 5. Secure b
