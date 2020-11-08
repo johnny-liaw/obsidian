@@ -12,3 +12,9 @@
 3. [[Protocol Negotiation]] during TLS
 4. Compression (headers + data)
 5. Secure by default as communication must be through port 443.
+
+---
+
+#networkEng #softwareEng #OSI #HTTP
+
+---

@@ -9,3 +9,9 @@
 	- needs responses to arrive in order, or FIFO.
 		-  Due to this draw back, pipelining is disabled by default in HTTP1.1 and addressed in [[HTTP-2]].
 	- ![[Screen Shot 2020-11-07 at 8.07.11 pm.png]]
+
+---
+
+#networkEng #softwareEng #OSI #HTTP
+
+---

@@ -37,11 +37,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#softwareEng"
+                "query": "tag:#HTTP"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -76,19 +77,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "lastOpenFiles": [
-    "Software Engineering/Network Engineering/Session ID.md",
-    "Software Engineering/Network Engineering/L5 Session Layer.md",
-    "Software Engineering/Network Engineering/_png/Screen Shot 2020-11-08 at 3.34.40 pm.png",
-    "Screen Shot 2020-11-08 at 3.34.40 pm.png",
-    "Software Engineering/Network Engineering/StreamID.md",
-    "Software Engineering/Network Engineering/HTTP-2.md",
+    "Software Engineering/Network Engineering/Stream ID.md",
     "Software Engineering/Network Engineering/HOL Blocking.md",
+    "Software Engineering/Network Engineering/HTTP-3.md",
+    "Software Engineering/Network Engineering/HTTP-2.md",
     "Software Engineering/Network Engineering/HTTP-1.1.md",
     "Software Engineering/Network Engineering/HTTP-1.md",
-    "Software Engineering/Network Engineering/ALPN.md"
+    "Software Engineering/Network Engineering/HTTP.md",
+    "Software Engineering/Network Engineering/Session ID.md",
+    "Software Engineering/Network Engineering/L5 Session Layer.md",
+    "Software Engineering/Network Engineering/_png/Screen Shot 2020-11-08 at 3.34.40 pm.png"
   ]
 }
