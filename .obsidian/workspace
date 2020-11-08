@@ -8,11 +8,8 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Software Engineering/Tooling/Erlang.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -63,9 +60,7 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {
-                "file": "Software Engineering/Tooling/Erlang.md"
-              }
+              "state": {}
             }
           },
           {
@@ -85,15 +80,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Software Engineering/Tooling/Erlang.md",
+    "Software Engineering/Tooling/Erlang Distribution.md",
+    "Software Engineering/Tooling/Erlang Fault Tolerance.md",
+    "Software Engineering/Tooling/Erlang Scalability.md",
+    "Software Engineering/Tooling/Erlang Responsiveness.md",
     "Software Engineering/Languages & Frameworks/Erlang.md",
     "Software Engineering/Languages & Frameworks/Erlang Processes.md",
     "Software Engineering/Elixir+Erlang/Erlang.md",
     "Software Engineering/Elixir+Erlang/Erlang Processes.md",
-    "Untitled.md",
-    "Software Engineering/Network Engineering/HTTP.md",
-    "Software Engineering/Processing/Stack.md",
-    "Software Engineering/Processing/Memory.md",
-    "Software Engineering/Processing/Registers.md",
-    "Software Engineering/Processing/Counter.md"
+    "Untitled.md"
   ]
 }
