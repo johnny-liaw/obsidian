@@ -41,8 +41,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -77,9 +76,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "lastOpenFiles": [
+    "Software Engineering/Network Engineering/Protocol Negotiation.md",
     "Software Engineering/Network Engineering/Stream ID.md",
     "Software Engineering/Network Engineering/HOL Blocking.md",
     "Software Engineering/Network Engineering/HTTP-3.md",
@@ -88,7 +89,6 @@
     "Software Engineering/Network Engineering/HTTP-1.md",
     "Software Engineering/Network Engineering/HTTP.md",
     "Software Engineering/Network Engineering/Session ID.md",
-    "Software Engineering/Network Engineering/L5 Session Layer.md",
-    "Software Engineering/Network Engineering/_png/Screen Shot 2020-11-08 at 3.34.40 pm.png"
+    "Software Engineering/Network Engineering/L5 Session Layer.md"
   ]
 }
