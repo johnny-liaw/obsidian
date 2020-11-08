@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Software Engineering/Processing/Multiprocess Processing.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -60,7 +63,9 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {}
+              "state": {
+                "file": "Software Engineering/Processing/Multiprocess Processing.md"
+              }
             }
           },
           {
@@ -80,9 +85,9 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Software Engineering/Processing/Multiprocess Processing.md",
     "Software Engineering/Processing/Processing Types.md",
     "Software Engineering/Processing/Different Job Processing Types.md",
-    "Software Engineering/Processing/Multiprocess Processing.md",
     "Software Engineering/Processing/Multithreading Processing.md",
     "Software Engineering/Processing/Asynchronous Processing.md",
     "Untitled.md",
