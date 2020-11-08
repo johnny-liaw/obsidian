@@ -18,4 +18,4 @@
 
 ### 4. Compression (headers + data)
 
-### 5. Secure b
+### 5. Secure by default. 
