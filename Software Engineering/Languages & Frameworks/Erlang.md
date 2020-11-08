@@ -9,4 +9,7 @@ A language designed to provide fault tolerance, concurrency, scalability, respon
 			- Each scheduler is responsible for multiple [[Erlang Processes]].
 
 # Features of Erlang
-- [[Erlang Features/Fault Tolerance]]
+- [[Erlang Fault Tolerance]]
+- [[Erlang Scalability]]
+- [[Erlang Distribution]]
+- [[Erlang Responsiveness]]

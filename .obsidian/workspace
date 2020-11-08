@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Software Engineering/Elixir+Erlang/Erlang.md",
+            "file": "Software Engineering/Languages & Frameworks/Erlang.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/Elixir+Erlang/Erlang.md"
+                "file": "Software Engineering/Languages & Frameworks/Erlang.md"
               }
             }
           },
@@ -85,6 +85,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Software Engineering/Languages & Frameworks/Erlang.md",
+    "Software Engineering/Languages & Frameworks/Erlang Processes.md",
     "Software Engineering/Elixir+Erlang/Erlang.md",
     "Software Engineering/Elixir+Erlang/Erlang Processes.md",
     "Untitled.md",
@@ -92,8 +94,6 @@
     "Software Engineering/Processing/Stack.md",
     "Software Engineering/Processing/Memory.md",
     "Software Engineering/Processing/Registers.md",
-    "Software Engineering/Processing/Counter.md",
-    "Software Engineering/Processing/Heap.md",
-    "Software Engineering/Processing/Concurrency.md"
+    "Software Engineering/Processing/Counter.md"
   ]
 }
