@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Software Engineering/Network Engineering/HOL Blocking.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -60,7 +63,9 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {}
+              "state": {
+                "file": "Software Engineering/Network Engineering/HOL Blocking.md"
+              }
             }
           },
           {
@@ -80,6 +85,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Software Engineering/Network Engineering/HOL Blocking.md",
     "Software Engineering/Network Engineering/HTTP-2.md",
     "Software Engineering/Network Engineering/StreamID.md",
     "Software Engineering/Network Engineering/HTTP-1.1.md",
@@ -88,7 +94,6 @@
     "Software Engineering/Network Engineering/Network Routing.md",
     "Software Engineering/Network Engineering/OSI Model.md",
     "Software Engineering/Network Engineering/Protocol Negotiation.md",
-    "Software Engineering/Network Engineering/Port Forwarding.md",
-    "Software Engineering/Network Engineering/HTTP.md"
+    "Software Engineering/Network Engineering/Port Forwarding.md"
   ]
 }
