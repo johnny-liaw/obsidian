@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Software Engineering/Languages & Frameworks/Erlang.md",
+            "file": "Software Engineering/Tooling/Erlang.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/Languages & Frameworks/Erlang.md"
+                "file": "Software Engineering/Tooling/Erlang.md"
               }
             }
           },
