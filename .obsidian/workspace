@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Software Engineering/Processing/Parallelism.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -45,7 +48,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259
+    "width": 371
   },
   "right": {
     "id": "2120d96e7bb5030a",
@@ -60,7 +63,9 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {}
+              "state": {
+                "file": "Software Engineering/Processing/Parallelism.md"
+              }
             }
           },
           {
@@ -80,8 +85,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Software Engineering/Processing/Concurrency.md",
     "Software Engineering/Processing/Parallelism.md",
+    "Software Engineering/Processing/Concurrency.md",
     "Software Engineering/Processing/Multithreading Processing.md",
     "Software Engineering/Processing/Heap.md",
     "Software Engineering/Processing/Untitled.md",
