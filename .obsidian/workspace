@@ -86,6 +86,7 @@
   },
   "lastOpenFiles": [
     "Software Engineering/Network Engineering/HTTP-2.md",
+    "Software Engineering/Network Engineering/ALPN.md",
     "Software Engineering/Network Engineering/Network Routing.md",
     "Software Engineering/Network Engineering/OSI Model.md",
     "Software Engineering/Network Engineering/Protocol Negotiation.md",
@@ -93,7 +94,6 @@
     "Software Engineering/Network Engineering/HTTP-1.1.md",
     "Software Engineering/Network Engineering/HTTP-1.md",
     "Software Engineering/Network Engineering/HTTP.md",
-    "Software Engineering/Network Engineering/HOL Blocking.md",
-    "Software Engineering/Network Engineering/HTTP-3.md"
+    "Software Engineering/Network Engineering/HOL Blocking.md"
   ]
 }

@@ -1,11 +1,3 @@
-- Compression
-- Multiplexing: 
-	- 
-- Server Push
-- Secure by default
-- Protocol negotiation [[ALPN]] during TLS
-
-
 ### 1. Multiplexing 
 - Non error prone concurrent requests are able to be made.
 - ![[Screen Shot 2020-11-08 at 3.34.40 pm.png]]
@@ -18,4 +10,4 @@
 
 ### 4. Compression (headers + data)
 
-### 5. Secure by default. 
+### 5. Secure by default as communication must be through port 443.
