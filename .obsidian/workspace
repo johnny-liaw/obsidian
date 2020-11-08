@@ -80,6 +80,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Software Engineering/Network Engineering/HTTP.md",
     "Software Engineering/Processing/Stack.md",
     "Software Engineering/Processing/Memory.md",
     "Software Engineering/Processing/Registers.md",
@@ -88,7 +89,6 @@
     "Software Engineering/Processing/Concurrency.md",
     "Software Engineering/Processing/Parallelism.md",
     "Software Engineering/Processing/Synchronous Processing.md",
-    "Software Engineering/Processing/Asynchronous Processing.md",
-    "Software Engineering/Processing/Multithreading Processing.md"
+    "Software Engineering/Processing/Asynchronous Processing.md"
   ]
 }
