@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "ba461febcf18e4ce",
+        "id": "87ee282e440b3514",
         "type": "leaf",
         "active": true,
         "state": {
@@ -86,14 +86,14 @@
   },
   "lastOpenFiles": [
     "Software Engineering/Network Engineering/L5 Session Layer.md",
+    "Software Engineering/Network Engineering/_png/Screen Shot 2020-11-08 at 3.34.40 pm.png",
+    "Screen Shot 2020-11-08 at 3.34.40 pm.png",
     "Software Engineering/Network Engineering/StreamID.md",
     "Software Engineering/Network Engineering/HTTP-2.md",
     "Software Engineering/Network Engineering/HOL Blocking.md",
     "Software Engineering/Network Engineering/HTTP-1.1.md",
     "Software Engineering/Network Engineering/HTTP-1.md",
     "Software Engineering/Network Engineering/ALPN.md",
-    "Software Engineering/Network Engineering/Network Routing.md",
-    "Software Engineering/Network Engineering/OSI Model.md",
-    "Software Engineering/Network Engineering/Protocol Negotiation.md"
+    "Software Engineering/Network Engineering/Network Routing.md"
   ]
 }
