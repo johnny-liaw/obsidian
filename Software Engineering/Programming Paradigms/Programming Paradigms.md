@@ -8,4 +8,4 @@
 
 ---
 
-#softwareEng #pro
+#softwareEng #programmingParadigms 
