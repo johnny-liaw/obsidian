@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Software Engineering/Tooling/Erlang/Erlang Scalability.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -60,7 +63,9 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {}
+              "state": {
+                "file": "Software Engineering/Tooling/Erlang/Erlang Scalability.md"
+              }
             }
           },
           {
@@ -80,6 +85,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Software Engineering/Tooling/Erlang/Erlang Scalability.md",
+    "Software Engineering/Processing/Multiprocess Processing.md",
     "Software Engineering/Tooling/Erlang/Elixir.md",
     "Software Engineering/Tooling/Erlang/Erlang.md",
     "Software Engineering/Tooling/Erlang/Functional Programming.md",
@@ -87,8 +94,6 @@
     "Untitled.md",
     "Software Engineering/Tooling/Erlang/Erlang Processes.md",
     "Software Engineering/Tooling/Erlang/Erlang Fault Tolerance.md",
-    "Software Engineering/Tooling/Erlang/Erlang Scalability.md",
-    "Software Engineering/Tooling/Erlang/Erlang Distribution.md",
-    "Software Engineering/Tooling/Erlang/Erlang Responsiveness.md"
+    "Software Engineering/Tooling/Erlang/Erlang Distribution.md"
   ]
 }
