@@ -15,14 +15,14 @@
         }
       },
       {
-        "id": "fa02a461bb8481fa",
+        "id": "3edb8f83a4a8bc6c",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programming Paradigms.md",
-            "mode": "source"
+            "file": "Software Engineering/Tooling/Erlang/Elixir.md",
+            "mode": "preview"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Paradigms.md"
+                "file": "Software Engineering/Tooling/Erlang/Elixir.md"
               }
             }
           },
@@ -97,15 +97,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Programming Paradigms.md",
     "Software Engineering/Tooling/Erlang/Elixir.md",
     "Software Engineering/Tooling/Erlang/Erlang.md",
+    "Software Engineering/Tooling/Erlang/Functional Programming.md",
+    "Programming Paradigms.md",
     "Untitled.md",
     "Software Engineering/Tooling/Erlang/Erlang Processes.md",
     "Software Engineering/Tooling/Erlang/Erlang Fault Tolerance.md",
     "Software Engineering/Tooling/Erlang/Erlang Scalability.md",
     "Software Engineering/Tooling/Erlang/Erlang Distribution.md",
-    "Software Engineering/Tooling/Erlang/Erlang Responsiveness.md",
-    "Software Engineering/Tooling/Erlang/Software Distribution.md"
+    "Software Engineering/Tooling/Erlang/Erlang Responsiveness.md"
   ]
 }

@@ -4,4 +4,4 @@
 ## Different types of Programming Paradims.
 - [[Functional Programming]]
 - [[Imperative Programming]]
--[[OO Programming]]
+- [[OO Programming]]
