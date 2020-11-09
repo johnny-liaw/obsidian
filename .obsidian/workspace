@@ -15,9 +15,20 @@
         }
       },
       {
-        "id": "65775b3fd574b2cc",
+        "id": "193f6433a1614f5c",
         "type": "leaf",
         "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Software Engineering/Tooling/Erlang/Erlang Fault Tolerance.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "65775b3fd574b2cc",
+        "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
@@ -59,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5
+    "width": 240.5,
+    "collapsed": true
   },
   "right": {
     "id": "2120d96e7bb5030a",
@@ -75,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/Tooling/Erlang/Erlang Distribution.md"
+                "file": "Software Engineering/Tooling/Erlang/Erlang Fault Tolerance.md"
               }
             }
           },
@@ -96,6 +108,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Software Engineering/Tooling/Erlang/Erlang Fault Tolerance.md",
     "Software Engineering/Tooling/Erlang/Erlang Distribution.md",
     "Software Engineering/Tooling/Erlang/Erlang.md",
     "Software Engineering/Tooling/Erlang/Erlang Scalability.md",
@@ -104,7 +117,6 @@
     "Software Engineering/Tooling/Erlang + Elixir/Erlang Distribution.md",
     "Software Engineering/Tooling/Erlang + Elixir/Erlang Responsiveness.md",
     "Software Engineering/Tooling/Erlang + Elixir/Erlang Processes.md",
-    "Software Engineering/Tooling/Erlang.md",
-    "Software Engineering/Tooling/Erlang Distribution.md"
+    "Software Engineering/Tooling/Erlang.md"
   ]
 }
