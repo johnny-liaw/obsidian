@@ -30,8 +30,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Software Engineering/Tooling/Erlang/Software Distribution.md",
+            "mode": "source"
+          }
         }
       },
       {
@@ -94,7 +97,9 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {}
+              "state": {
+                "file": "Software Engineering/Tooling/Erlang/Software Distribution.md"
+              }
             }
           },
           {
