@@ -1,4 +1,5 @@
 # Features of Func Programming
+#### Pros
 - Immutability
 	- Transformations on data will always be stored in a new location.
 		- In other words, already existing data will never be mutated in memory.
@@ -6,6 +7,7 @@
 
 #### Cons
 - Performance is often slower, as lots of copying and pasting of data.
+- IO relies on functions with side effects.
 - 
 
 
