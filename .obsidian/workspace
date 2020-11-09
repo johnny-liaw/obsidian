@@ -6,6 +6,7 @@
       {
         "id": "87ee282e440b3514",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -17,11 +18,10 @@
       {
         "id": "ed58942cc24a6fe7",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Software Engineering/Tooling/Erlang/Erlang Responsiveness.md",
+            "file": "Software Engineering/Tooling/Erlang/Erlang.md",
             "mode": "source"
           }
         }
@@ -59,8 +59,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5,
-    "collapsed": true
+    "width": 240.5
   },
   "right": {
     "id": "2120d96e7bb5030a",
@@ -76,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/Tooling/Erlang/Erlang Responsiveness.md"
+                "file": "Software Engineering/Tooling/Erlang/Erlang.md"
               }
             }
           },
@@ -97,15 +96,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Software Engineering/Tooling/Erlang/Erlang Responsiveness.md",
     "Software Engineering/Tooling/Erlang/Erlang.md",
-    "Software Engineering/Tooling/Erlang/Erlang Distribution.md",
-    "Software Engineering/Tooling/Erlang/Software Distribution.md",
+    "Software Engineering/Tooling/Erlang/Erlang Processes.md",
     "Software Engineering/Tooling/Erlang/Erlang Fault Tolerance.md",
     "Software Engineering/Tooling/Erlang/Erlang Scalability.md",
+    "Software Engineering/Tooling/Erlang/Erlang Distribution.md",
+    "Software Engineering/Tooling/Erlang/Erlang Responsiveness.md",
+    "Software Engineering/Tooling/Erlang/Software Distribution.md",
     "Software Engineering/Tooling/Erlang + Elixir/Erlang Fault Tolerance.md",
     "Software Engineering/Tooling/Erlang + Elixir/Erlang.md",
-    "Software Engineering/Tooling/Erlang + Elixir/Erlang Distribution.md",
-    "Software Engineering/Tooling/Erlang + Elixir/Erlang Responsiveness.md"
+    "Software Engineering/Tooling/Erlang + Elixir/Erlang Distribution.md"
   ]
 }
