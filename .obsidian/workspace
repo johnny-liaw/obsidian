@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Software Engineering/Tooling/Erlang/Elixir.md",
+            "file": "Software Engineering/Tooling/Erlang/Functional Programming.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/Tooling/Erlang/Elixir.md"
+                "file": "Software Engineering/Tooling/Erlang/Functional Programming.md"
               }
             }
           },
@@ -97,9 +97,9 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Software Engineering/Tooling/Erlang/Functional Programming.md",
     "Software Engineering/Tooling/Erlang/Elixir.md",
     "Software Engineering/Tooling/Erlang/Erlang.md",
-    "Software Engineering/Tooling/Erlang/Functional Programming.md",
     "Programming Paradigms.md",
     "Untitled.md",
     "Software Engineering/Tooling/Erlang/Erlang Processes.md",
