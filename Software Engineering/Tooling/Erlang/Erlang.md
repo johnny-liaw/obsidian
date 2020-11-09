@@ -14,6 +14,8 @@ A language designed to provide fault tolerance, concurrency, scalability, respon
 - [[Erlang Distribution]]
 - [[Erlang Responsiveness]]
 
+# Elixir
+- [[Elixir]]
 ---
 
 #softwareEng #tooling #erlang
