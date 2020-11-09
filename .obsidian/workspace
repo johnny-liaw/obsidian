@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Software Engineering/Tooling/Erlang/Elixir.md",
+            "file": "Programming Paradigms.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/Tooling/Erlang/Elixir.md"
+                "file": "Programming Paradigms.md"
               }
             }
           },
@@ -97,6 +97,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Programming Paradigms.md",
     "Software Engineering/Tooling/Erlang/Elixir.md",
     "Software Engineering/Tooling/Erlang/Erlang.md",
     "Untitled.md",
@@ -105,7 +106,6 @@
     "Software Engineering/Tooling/Erlang/Erlang Scalability.md",
     "Software Engineering/Tooling/Erlang/Erlang Distribution.md",
     "Software Engineering/Tooling/Erlang/Erlang Responsiveness.md",
-    "Software Engineering/Tooling/Erlang/Software Distribution.md",
-    "Software Engineering/Tooling/Erlang + Elixir/Erlang Fault Tolerance.md"
+    "Software Engineering/Tooling/Erlang/Software Distribution.md"
   ]
 }
