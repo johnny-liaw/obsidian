@@ -5,3 +5,7 @@
 - [[Functional Programming]]
 - [[Imperative Programming]]
 - [[OO Programming]]
+
+---
+
+#softwareEng #pro

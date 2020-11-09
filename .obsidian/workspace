@@ -10,7 +10,29 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Software Engineering/Tooling/Erlang/Erlang Scalability.md",
+            "file": "Programming Paradigms.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "b32e31d1fca29674",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "OO Programming.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "09f40e0da7cf5083",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Imperative Programming.md",
             "mode": "source"
           }
         }
@@ -64,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/Tooling/Erlang/Erlang Scalability.md"
+                "file": "Programming Paradigms.md"
               }
             }
           },
@@ -85,15 +107,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Software Engineering/Tooling/Erlang/Erlang Scalability.md",
-    "Software Engineering/Processing/Multiprocess Processing.md",
-    "Software Engineering/Tooling/Erlang/Elixir.md",
-    "Software Engineering/Tooling/Erlang/Erlang.md",
-    "Software Engineering/Tooling/Erlang/Functional Programming.md",
     "Programming Paradigms.md",
-    "Untitled.md",
+    "OO Programming.md",
+    "Imperative Programming.md",
+    "Software Engineering/Tooling/Erlang/Erlang.md",
     "Software Engineering/Tooling/Erlang/Erlang Processes.md",
     "Software Engineering/Tooling/Erlang/Erlang Fault Tolerance.md",
-    "Software Engineering/Tooling/Erlang/Erlang Distribution.md"
+    "Software Engineering/Tooling/Erlang/Erlang Scalability.md",
+    "Software Engineering/Tooling/Erlang/Erlang Distribution.md",
+    "Software Engineering/Tooling/Erlang/Erlang Responsiveness.md",
+    "Software Engineering/Tooling/Erlang/Software Distribution.md"
   ]
 }
