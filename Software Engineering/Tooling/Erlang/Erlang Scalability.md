@@ -8,3 +8,7 @@ Because no memory is shared. No complex synchronisation mechanisms are present.
 
 
 Click [[Software Scalability]] to learn more about general scalability concepts.
+
+---
+
+#softwareEng #tooling #erlang

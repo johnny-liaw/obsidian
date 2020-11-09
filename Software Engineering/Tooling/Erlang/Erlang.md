@@ -13,3 +13,9 @@ A language designed to provide fault tolerance, concurrency, scalability, respon
 - [[Erlang Scalability]]
 - [[Erlang Distribution]]
 - [[Erlang Responsiveness]]
+
+---
+
+#softwareEng #tooling #erlang
+
+___

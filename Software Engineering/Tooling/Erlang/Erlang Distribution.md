@@ -3,3 +3,6 @@
 - Ability to scaleout to multiple machines, improving fault tolerance.
 
 Click [[Software Distribution]] to learn about distributed systems.
+
+---
+#softwareEng #tooling #erlang

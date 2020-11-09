@@ -5,3 +5,8 @@
 	- Processes that wait for IO won't block other proceses.
 - Each Erlang Process has its own memory, they take care of their own GC.
 	- GC is much quicker in Erlang and don't block the rest of the system.
+
+
+---
+#softwareEng #tooling #erlang
+
