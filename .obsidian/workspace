@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Software Engineering/Tooling/Erlang + Elixir/Erlang.md",
+            "file": "Software Engineering/Tooling/Erlang/Erlang.md",
             "mode": "source"
           }
         }
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Software Engineering/Tooling/Erlang + Elixir/Erlang Fault Tolerance.md",
+            "file": "Software Engineering/Tooling/Erlang/Erlang Fault Tolerance.md",
             "mode": "source"
           }
         }
@@ -59,8 +59,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5,
-    "collapsed": true
+    "width": 240.5
   },
   "right": {
     "id": "2120d96e7bb5030a",
@@ -76,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/Tooling/Erlang + Elixir/Erlang Fault Tolerance.md"
+                "file": "Software Engineering/Tooling/Erlang/Erlang Fault Tolerance.md"
               }
             }
           },
