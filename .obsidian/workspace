@@ -80,6 +80,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Software Engineering/Programming Paradigms/Functional Programming.md",
     "Software Engineering/Programming Paradigms/Imperative Programming.md",
     "Software Engineering/Programming Paradigms/OO Programming.md",
     "Programming Paradigms.md",
@@ -88,7 +89,6 @@
     "Software Engineering/Tooling/Erlang/Erlang.md",
     "Software Engineering/Tooling/Erlang/Erlang Processes.md",
     "Software Engineering/Tooling/Erlang/Erlang Fault Tolerance.md",
-    "Software Engineering/Tooling/Erlang/Erlang Scalability.md",
-    "Software Engineering/Tooling/Erlang/Erlang Distribution.md"
+    "Software Engineering/Tooling/Erlang/Erlang Scalability.md"
   ]
 }
