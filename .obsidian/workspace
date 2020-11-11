@@ -40,11 +40,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#cpuParts"
+                "query": "BEAM"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
