@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Software Engineering/Network Engineering/HTTP-2.md",
-            "mode": "preview"
+            "file": "Software Engineering/Tooling/Erlang/Erlang.md",
+            "mode": "source"
           }
         }
       }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/Network Engineering/HTTP-2.md"
+                "file": "Software Engineering/Tooling/Erlang/Erlang.md"
               }
             }
           },
@@ -85,6 +85,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Software Engineering/Tooling/Erlang/Erlang.md",
+    "Software Engineering/Tooling/Erlang/Erlang Processes.md",
     "Software Engineering/Network Engineering/HTTP-2.md",
     "Software Engineering/Programming Paradigms/Functional Programming.md",
     "Software Engineering/Programming Paradigms/Imperative Programming.md",
@@ -92,8 +94,6 @@
     "Programming Paradigms.md",
     "OO Programming.md",
     "Imperative Programming.md",
-    "Software Engineering/Tooling/Erlang/Erlang.md",
-    "Software Engineering/Tooling/Erlang/Erlang Processes.md",
     "Software Engineering/Tooling/Erlang/Erlang Fault Tolerance.md"
   ]
 }
