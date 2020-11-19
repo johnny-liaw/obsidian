@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Software Engineering/Tooling/Erlang/Erlang.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -37,7 +40,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "BEAM"
+                "query": "BEAM",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
               }
             }
           }
@@ -60,7 +68,14 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {}
+              "state": {
+                "file": "Software Engineering/Tooling/Erlang/Erlang.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
             }
           },
           {
@@ -80,8 +95,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Software Engineering/Tooling/Erlang/BEAM.md",
     "Software Engineering/Tooling/Erlang/Erlang.md",
+    "Software Engineering/Tooling/Erlang/BEAM.md",
     "Software Engineering/Tooling/Erlang/Erlang Distribution.md",
     "Software Engineering/Tooling/Erlang/Erlang Processes.md",
     "Software Engineering/Network Engineering/HTTP-2.md",
