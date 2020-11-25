@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Software Engineering/Tooling/Erlang/Erlang.md",
+            "file": "Software Engineering/Tooling/Erlang/GenServer.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/Tooling/Erlang/Erlang.md",
+                "file": "Software Engineering/Tooling/Erlang/GenServer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,15 +95,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Software Engineering/Tooling/Erlang/GenServer.md",
+    "Software Engineering/Tooling/Erlang/Elixir.md",
+    "Software Engineering/Programming Paradigms/Programming Paradigms.md",
+    "Software Engineering/Programming Paradigms/OO Programming.md",
+    "Software Engineering/Programming Paradigms/Imperative Programming.md",
     "Software Engineering/Tooling/Erlang/Erlang.md",
     "Software Engineering/Tooling/Erlang/BEAM.md",
     "Software Engineering/Tooling/Erlang/Erlang Distribution.md",
     "Software Engineering/Tooling/Erlang/Erlang Processes.md",
-    "Software Engineering/Network Engineering/HTTP-2.md",
-    "Software Engineering/Programming Paradigms/Functional Programming.md",
-    "Software Engineering/Programming Paradigms/Imperative Programming.md",
-    "Software Engineering/Programming Paradigms/OO Programming.md",
-    "Programming Paradigms.md",
-    "OO Programming.md"
+    "Software Engineering/Network Engineering/HTTP-2.md"
   ]
 }

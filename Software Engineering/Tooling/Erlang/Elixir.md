@@ -7,6 +7,13 @@ A [[Functional Programming]] language based on Erlang offering high levels of co
 	- Great for comparisons.
 	- All accesses to the Atom/Symbol are by reference.
 
+#### Supervisor
+- Manages the full lifecycle of processes within Elixir.
+	- Can restart processes if they die in Elixir.
+
+#### GenServer
+- A helper for Elixir to access/mutate state
+	- [[GenServer]]
 ---
 
 #softwareEng #tooling #erlang #elixir
