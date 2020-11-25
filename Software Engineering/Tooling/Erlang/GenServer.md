@@ -73,7 +73,10 @@ defmodule Bucket do
 	end
 end
 ```
-- 
+- `get_state` calls the `GenServer.call` method directly
+- `handle_call` implements the `GenServer.call` method previously referenced.
+	- receives 3 params: { param_from_caller, pid_of_caller, state_of_server }
+	- must return: {:reply}
 
 ### Cast vs Call
 - Call = Synchronous = Requires an answer
