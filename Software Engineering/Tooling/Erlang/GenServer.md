@@ -76,7 +76,7 @@ end
 - `get_state` calls the `GenServer.call` method directly
 - `handle_call` implements the `GenServer.call` method previously referenced.
 	- receives 3 params: { param_from_caller, pid_of_caller, state_of_server }
-	- must return: {:reply}
+	- must return: { :reply, response_val, new_server_state } / { :noreply, new_server_state }
 
 ### Cast vs Call
 - Call = Synchronous = Requires an answer
