@@ -62,15 +62,18 @@ defmodule Bucket do
 		{:ok, initial_data}
 	end
 	
+	# client interface code
 	def get_state(pid) do
+		# server interface code
 		GenServer.call(pid, {:get_state})
 	end
 	
 	def handle_call({:get_state}, _from, my_state) do
-		{:reply, my_state, my_state}
+		{:reply, my_state, %{}}
 	end
 end
 ```
+- 
 
 ### Cast vs Call
 - Call = Synchronous = Requires an answer
