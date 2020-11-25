@@ -47,7 +47,30 @@ defmodule Bucket do
 	end
 end
 ```
-- 
+- Also able to do transformations on the initial server data via the init method.
+
+## GenServer.handle_call
+```elixir
+defmodule Bucket do
+	use GenServer
+	
+	def start_link do
+		GenServer.start_link(__MODULE__, initial_state)
+	end
+	
+	def init(initial_data) do
+		{:ok, initial_data}
+	end
+	
+	def get_state(pid) do
+		GenServer.call(pid, {:get_state})
+	end
+	
+	def handle_call({:get_state}, _from, my_state) do
+		{:reply, my_state, my_state}
+	end
+end
+```
 
 ### Cast vs Call
 - Call = Synchronous = Requires an answer
