@@ -11,8 +11,14 @@ end
 - It also takes a list of start parameters. 
 
 ```elixir
-# in mix.es
-def application do
-	[mod: {MyApp, []}]
+defmodule MyApp do
+	use Application
+	
+	def start(_type, _args) do
+		children = []
+		Supervisor.start_link(children, strategy: :one_for_one)
+	end
 end
 ```
+- Callback module must implemente the `Application` functional interface
+- Starts the supervisor process.
