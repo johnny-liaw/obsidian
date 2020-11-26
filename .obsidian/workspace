@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Software Engineering/Tooling/Erlang/Supervisor.md",
-            "mode": "preview"
+            "file": "Software Engineering/Tooling/Erlang/Application.md",
+            "mode": "source"
           }
         }
       }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/Tooling/Erlang/Supervisor.md",
+                "file": "Software Engineering/Tooling/Erlang/Application.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +96,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Software Engineering/Tooling/Erlang/Supervisor.md",
+    "Software Engineering/Tooling/Erlang/Application.md",
     "Software Engineering/Tooling/Erlang/Elixir.md",
+    "Software Engineering/Tooling/Erlang/Supervisor.md",
     "Software Engineering/Tooling/Erlang/GenServer.md",
     "Software Engineering/Programming Paradigms/Programming Paradigms.md",
     "Software Engineering/Programming Paradigms/OO Programming.md",
     "Software Engineering/Programming Paradigms/Imperative Programming.md",
     "Software Engineering/Tooling/Erlang/Erlang.md",
     "Software Engineering/Tooling/Erlang/BEAM.md",
-    "Software Engineering/Tooling/Erlang/Erlang Distribution.md",
-    "Software Engineering/Tooling/Erlang/Erlang Processes.md"
+    "Software Engineering/Tooling/Erlang/Erlang Distribution.md"
   ]
 }
