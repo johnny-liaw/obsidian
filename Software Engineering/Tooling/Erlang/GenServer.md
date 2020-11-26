@@ -79,7 +79,8 @@ end
 	- must return: { :reply, response_val, new_server_state } / { :noreply, new_server_state }
 
 ## GenServer.handle_info
-
+- handles all messages not sent to  `handle_call` and `handle_cast` calls. 
+	- Used for monitoring processes through `Process.monitor` and scheduling jobs with `Process.send_after`
 
 ### Cast vs Call
 - Call = Synchronous = Requires an answer
