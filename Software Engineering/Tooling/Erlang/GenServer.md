@@ -78,6 +78,9 @@ end
 	- receives 3 params: { param_from_caller, pid_of_caller, state_of_server }
 	- must return: { :reply, response_val, new_server_state } / { :noreply, new_server_state }
 
+## GenServer.handle_info
+
+
 ### Cast vs Call
 - Call = Synchronous = Requires an answer
 - Cast = Asynchronous = Doesn't requre an answer
