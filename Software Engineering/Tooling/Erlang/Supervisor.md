@@ -26,3 +26,7 @@ end
 		- In this case `:hello` is being passed to the start_link method.
 
 ## Supervisor process restart strategies
+- `:one_for_one` - if a child process is terminated, only that child process is restarted
+- `:one_for_all` - if a child process is terminated, all other child processes are restarted. 
+- `:rest_for_one` - if a child process is terminated, all other processes defined below it including the terminated process are restarted. 
+
