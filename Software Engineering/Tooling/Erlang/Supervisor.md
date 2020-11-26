@@ -29,4 +29,30 @@ end
 - `:one_for_one` - if a child process is terminated, only that child process is restarted
 - `:one_for_all` - if a child process is terminated, all other child processes are restarted. 
 - `:rest_for_one` - if a child process is terminated, all other processes defined below it including the terminated process are restarted. 
+	- [[Supervisor#^db7186]] In this snippet example, if `Process2` is terminated, only `Process2, Process3, and Process4` and restarted.
 
+
+```elixir
+defmodule MyApp.Supervisor do
+  # Automatically defines child_spec/1
+  use Supervisor
+
+  def start_link(init_arg) do
+    Supervisor.start_link(__MODULE__, init_arg, name: __MODULE__)
+  end
+
+  @impl true
+  def init(_init_arg) do
+    children = [
+      {Process1, []},
+      {Process2, []},
+      {Process3, []},
+      {Process4, []}
+    ]
+
+    Supervisor.init(children, strategy: :rest_for_one)
+  end
+end
+```
+
+^db7186
