@@ -14,6 +14,7 @@ A [[Functional Programming]] language based on Erlang offering high levels of co
 #### GenServer
 - A helper for Elixir to access/mutate state
 	- [[GenServer]]
+	- [[Application]]
 ---
 
 #softwareEng #tooling #erlang #elixir

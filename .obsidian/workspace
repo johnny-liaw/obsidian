@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Software Engineering/Tooling/Erlang/GenServer.md",
-            "mode": "preview"
+            "file": "Software Engineering/Tooling/Erlang/Elixir.md",
+            "mode": "source"
           }
         }
       }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/Tooling/Erlang/GenServer.md",
+                "file": "Software Engineering/Tooling/Erlang/Elixir.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,8 +96,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Software Engineering/Tooling/Erlang/GenServer.md",
     "Software Engineering/Tooling/Erlang/Elixir.md",
+    "Software Engineering/Tooling/Erlang/GenServer.md",
     "Software Engineering/Programming Paradigms/Programming Paradigms.md",
     "Software Engineering/Programming Paradigms/OO Programming.md",
     "Software Engineering/Programming Paradigms/Imperative Programming.md",
