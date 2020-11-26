@@ -15,6 +15,7 @@ A [[Functional Programming]] language based on Erlang offering high levels of co
 - A helper for Elixir to access/mutate state
 	- [[GenServer]]
 	- [[Application]]
+	- [[Supervisor]]
 ---
 
 #softwareEng #tooling #erlang #elixir
