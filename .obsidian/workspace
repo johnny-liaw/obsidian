@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Software Engineering/Tooling/Erlang/Application.md",
-            "mode": "preview"
+            "file": "Books/Peak - Anders Ericsson.md",
+            "mode": "source"
           }
         }
       }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5,
-    "collapsed": true
+    "width": 240.5
   },
   "right": {
     "id": "2120d96e7bb5030a",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/Tooling/Erlang/Application.md",
+                "file": "Books/Peak - Anders Ericsson.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,6 +95,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Software Engineering/Tooling/Erlang/Untitled.md",
     "Software Engineering/Tooling/Erlang/Application.md",
     "Software Engineering/Tooling/Erlang/Elixir.md",
     "Software Engineering/Tooling/Erlang/Supervisor.md",
@@ -104,7 +104,6 @@
     "Software Engineering/Programming Paradigms/OO Programming.md",
     "Software Engineering/Programming Paradigms/Imperative Programming.md",
     "Software Engineering/Tooling/Erlang/Erlang.md",
-    "Software Engineering/Tooling/Erlang/BEAM.md",
-    "Software Engineering/Tooling/Erlang/Erlang Distribution.md"
+    "Software Engineering/Tooling/Erlang/BEAM.md"
   ]
 }
