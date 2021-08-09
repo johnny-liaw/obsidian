@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "87ee282e440b3514",
+        "id": "133490a59b5a77c8",
         "type": "leaf",
-        "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Books/Peak - Anders Ericsson.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -53,7 +49,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5
+    "width": 352
   },
   "right": {
     "id": "2120d96e7bb5030a",
@@ -69,10 +65,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Peak - Anders Ericsson.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -83,7 +80,10 @@
             "type": "leaf",
             "state": {
               "type": "tag",
-              "state": {}
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
             }
           }
         ],
@@ -94,16 +94,17 @@
     "width": 300,
     "collapsed": true
   },
+  "active": "133490a59b5a77c8",
   "lastOpenFiles": [
-    "Software Engineering/Tooling/Erlang/Untitled.md",
-    "Software Engineering/Tooling/Erlang/Application.md",
-    "Software Engineering/Tooling/Erlang/Elixir.md",
-    "Software Engineering/Tooling/Erlang/Supervisor.md",
-    "Software Engineering/Tooling/Erlang/GenServer.md",
-    "Software Engineering/Programming Paradigms/Programming Paradigms.md",
-    "Software Engineering/Programming Paradigms/OO Programming.md",
-    "Software Engineering/Programming Paradigms/Imperative Programming.md",
-    "Software Engineering/Tooling/Erlang/Erlang.md",
-    "Software Engineering/Tooling/Erlang/BEAM.md"
+    "Software Engineering/Network Engineering/L4 Transport Layer.md",
+    "Books/Clean Code - Robert Martin.md",
+    "Books/Peak - Anders Ericsson.md",
+    "Books/Untitled.md",
+    "Books/Untitled 1.md",
+    "Software Engineering/Network Engineering/UDP.md",
+    "Untitled.md",
+    "Software Engineering/Processing/Multiprocess Processing.md",
+    "Software Engineering/Processing/Multithreading Processing.md",
+    "Software Engineering/Processing/Parallelism.md"
   ]
 }
