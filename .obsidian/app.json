@@ -1,0 +1,12 @@
+{
+  "foldIndent": true,
+  "showLineNumber": false,
+  "vimMode": true,
+  "promptDelete": false,
+  "foldHeading": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "fileSortOrder": "byCreatedTime",
+  "attachmentFolderPath": "Software Engineering/_png",
+  "obsidianCss": true
+}
