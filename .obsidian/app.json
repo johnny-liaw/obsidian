@@ -8,5 +8,6 @@
   "newFileLocation": "current",
   "fileSortOrder": "byCreatedTime",
   "attachmentFolderPath": "Software Engineering/_png",
-  "obsidianCss": true
+  "obsidianCss": true,
+  "communityPluginSortOrder": "alphabetical"
 }
