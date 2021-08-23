@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1fb8f4ae4d69a792",
+        "id": "f42958a5a34c6789",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Templates 📝/General Note.md",
-            "mode": "preview"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates 📝/General Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,8 +94,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1fb8f4ae4d69a792",
+  "active": "f42958a5a34c6789",
   "lastOpenFiles": [
+    "Blockchain ⛓/Proof-of-Stake (PoS).md",
     "Untitled.md",
     "Blockchain/Proof-of-Work (PoW).md",
     "Blockchain/What is a blockchain.md",
@@ -108,7 +105,6 @@
     "Blockchain/Smart Contracts.md",
     "Blockchain/Untitled.md",
     "Blockchain/What is mining.md",
-    "Software Engineering/Programming Paradigms/Functional Programming.md",
-    "Books/Clean Code - Robert Martin.md"
+    "Software Engineering/Programming Paradigms/Functional Programming.md"
   ]
 }
