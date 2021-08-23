@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Books/Clean Code - Robert Martin.md",
+            "file": "Software Engineering/Programming Paradigms/Functional Programming.md",
             "mode": "source"
           }
         }
@@ -39,9 +39,9 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "BEAM",
+                "query": "",
                 "matchingCase": false,
-                "explainSearch": false,
+                "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Clean Code - Robert Martin.md",
+                "file": "Software Engineering/Programming Paradigms/Functional Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,9 +100,9 @@
   },
   "active": "133490a59b5a77c8",
   "lastOpenFiles": [
+    "Software Engineering/Programming Paradigms/Functional Programming.md",
     "Books/Clean Code - Robert Martin.md",
     "Books/Peak - Anders Ericsson.md",
-    "Software Engineering/Programming Paradigms/Functional Programming.md",
     "Software Engineering/Network Engineering/Stream ID.md",
     "Software Engineering/Network Engineering/IP Address.md",
     "Software Engineering/Network Engineering/L4 Transport Layer.md",
