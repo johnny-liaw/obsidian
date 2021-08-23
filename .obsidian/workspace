@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "133490a59b5a77c8",
+        "id": "fe7d1754cd74be78",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Blockchain/Proof-of-Stake (PoS).md",
-            "mode": "preview"
+            "file": "Blockchain/Proof-of-Work (PoW).md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blockchain/Proof-of-Stake (PoS).md",
+                "file": "Blockchain/Proof-of-Work (PoW).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,22 +90,21 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "133490a59b5a77c8",
+  "active": "fe7d1754cd74be78",
   "lastOpenFiles": [
-    "Blockchain/Proof-of-Stake (PoS).md",
-    "Blockchain/Smart Contracts.md",
     "Blockchain/Proof-of-Work (PoW).md",
-    "Blockchain/What is a blockchain.md",
+    "Blockchain/Proof-of-Stake (PoS).md",
     "Blockchain/What is mining?.md",
+    "Blockchain/Smart Contracts.md",
     "Blockchain/Untitled.md",
+    "Blockchain/What is a blockchain.md",
     "Blockchain/What is mining.md",
     "Software Engineering/Programming Paradigms/Functional Programming.md",
     "Books/Clean Code - Robert Martin.md",

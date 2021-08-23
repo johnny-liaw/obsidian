@@ -10,4 +10,4 @@
 - Work gets repeated, because you can do the work, and still not be the quickest, in which case your effort is wasted.
 
 ---
-#Blockchain 
+#Blockchain #PoW
