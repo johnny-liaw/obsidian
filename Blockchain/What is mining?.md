@@ -10,7 +10,7 @@ Mining is the act of securing the blockchain by blocking illegitimate transactio
 
 ### Node incentivization
 - They receive transaction fees
-- They receive a block reward (When a block is newly minted a new set of coins are release). Comes from the *co*
+- They receive a block reward (When a block is newly minted a new set of coins are release). Comes from the *coinbase tranasction*. 
 
 
 

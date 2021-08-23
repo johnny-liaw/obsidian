@@ -12,5 +12,7 @@
 - What if a validator is chosen, but they don't show up to do the job?
 - Backup validator pool to choose from.
 
+---
+#Blockchain 
 
 

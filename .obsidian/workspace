@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Blockchain/What is mining?.md",
+            "file": "Blockchain/Smart Contracts.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "proof",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blockchain/What is mining?.md",
+                "file": "Blockchain/Smart Contracts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +100,15 @@
   },
   "active": "133490a59b5a77c8",
   "lastOpenFiles": [
-    "Blockchain/What is mining?.md",
-    "Blockchain/Proof-of-Stake (PoS).md",
-    "Blockchain/Untitled.md",
+    "Blockchain/Smart Contracts.md",
     "Blockchain/Proof-of-Work (PoW).md",
+    "Blockchain/Untitled.md",
+    "Blockchain/Proof-of-Stake (PoS).md",
+    "Blockchain/What is mining?.md",
     "Blockchain/What is mining.md",
     "Software Engineering/Programming Paradigms/Functional Programming.md",
     "Books/Clean Code - Robert Martin.md",
     "Software Engineering/Programming Paradigms/Untitled.md",
-    "Books/Peak - Anders Ericsson.md",
-    "Software Engineering/Network Engineering/Stream ID.md"
+    "Books/Peak - Anders Ericsson.md"
   ]
 }
