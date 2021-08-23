@@ -1,5 +1,9 @@
 {
   "theme": "obsidian",
   "baseFontSize": 16,
-  "translucency": false
+  "translucency": false,
+  "cssTheme": "Obsidian gruvbox",
+  "enabledCssSnippets": [
+    "config"
+  ]
 }

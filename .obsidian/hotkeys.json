@@ -44,7 +44,7 @@
       "modifiers": [
         "Ctrl"
       ],
-      "key": "c"
+      "key": "X"
     }
   ],
   "app:toggle-left-sidebar": [
@@ -113,7 +113,14 @@
       "key": "L"
     }
   ],
-  "file-explorer:open": [],
+  "file-explorer:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "2"
+    }
+  ],
   "file-explorer:reveal-active-file": [
     {
       "modifiers": [
@@ -129,6 +136,15 @@
         "Mod"
       ],
       "key": "P"
+    }
+  ],
+  "editor:focus": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "E"
     }
   ]
 }
