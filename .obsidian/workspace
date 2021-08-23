@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Blockchain/Untitled.md",
+            "file": "Blockchain/What is mining?.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blockchain/Untitled.md",
+                "file": "Blockchain/What is mining?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +100,15 @@
   },
   "active": "133490a59b5a77c8",
   "lastOpenFiles": [
-    "Software Engineering/Programming Paradigms/Untitled.md",
+    "Blockchain/What is mining?.md",
+    "Blockchain/Proof-of-Stake (PoS).md",
+    "Blockchain/Untitled.md",
+    "Blockchain/Proof-of-Work (PoW).md",
+    "Blockchain/What is mining.md",
     "Software Engineering/Programming Paradigms/Functional Programming.md",
     "Books/Clean Code - Robert Martin.md",
+    "Software Engineering/Programming Paradigms/Untitled.md",
     "Books/Peak - Anders Ericsson.md",
-    "Software Engineering/Network Engineering/Stream ID.md",
-    "Software Engineering/Network Engineering/IP Address.md",
-    "Software Engineering/Network Engineering/L4 Transport Layer.md",
-    "Books/Untitled.md",
-    "Books/Untitled 1.md",
-    "Software Engineering/Network Engineering/UDP.md"
+    "Software Engineering/Network Engineering/Stream ID.md"
   ]
 }
