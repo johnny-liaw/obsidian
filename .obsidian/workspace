@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Software Engineering/Programming Paradigms/Functional Programming.md",
+            "file": "Blockchain/Untitled.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/Programming Paradigms/Functional Programming.md",
+                "file": "Blockchain/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +100,7 @@
   },
   "active": "133490a59b5a77c8",
   "lastOpenFiles": [
+    "Software Engineering/Programming Paradigms/Untitled.md",
     "Software Engineering/Programming Paradigms/Functional Programming.md",
     "Books/Clean Code - Robert Martin.md",
     "Books/Peak - Anders Ericsson.md",
@@ -108,7 +109,6 @@
     "Software Engineering/Network Engineering/L4 Transport Layer.md",
     "Books/Untitled.md",
     "Books/Untitled 1.md",
-    "Software Engineering/Network Engineering/UDP.md",
-    "Untitled.md"
+    "Software Engineering/Network Engineering/UDP.md"
   ]
 }
