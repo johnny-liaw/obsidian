@@ -1,7 +1,7 @@
 # Proof-of-Work (PoW)
 >⭐ The quickest solver gets the reward.
 
-### Disadvantages of this
+### Disadvantages
 - Favors bigger farms with and/or better hardware
 	- Goes against decentralization.
 - Very energy intensive.
