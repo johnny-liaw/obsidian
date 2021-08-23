@@ -15,4 +15,4 @@ Mining is the act of securing the blockchain by blocking illegitimate transactio
 
 
 ---
-#Blockchain 
+#Blockchain/mining 

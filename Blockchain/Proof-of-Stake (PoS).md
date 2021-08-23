@@ -13,6 +13,6 @@
 - Backup validator pool to choose from.
 
 ---
-#Blockchain #PoS
+#Blockchain/PoS
 
 
