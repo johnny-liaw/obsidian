@@ -125,9 +125,10 @@
   "obsidian-emoji-toolbar:emoji-picker:open-picker": [
     {
       "modifiers": [
-        "Alt"
+        "Alt",
+        "Mod"
       ],
-      "key": "E"
+      "key": "P"
     }
   ]
 }
