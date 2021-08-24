@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fleeting Notes/Smart Contacts.md",
+            "file": "Fleeting Notes/Intro To Blockchain & Smart Contracts.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting Notes/Smart Contacts.md",
+                "file": "Fleeting Notes/Intro To Blockchain & Smart Contracts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleeting Notes/Smart Contacts.md"
+                "file": "Fleeting Notes/Intro To Blockchain & Smart Contracts.md"
               }
             }
           }
@@ -110,15 +110,15 @@
   },
   "active": "f42958a5a34c6789",
   "lastOpenFiles": [
+    "Fleeting Notes/Smart Contacts.md",
+    "Permanent Notes/Blockchain ⛓/What is a blockchain.md",
+    "Permanent Notes/Blockchain ⛓/Smart Contracts.md",
     "Permanent Notes/21Aug24-1900.md",
     "21Aug24-1900.md",
     "Templates 📝/General Note.md",
     "Blockchain ⛓/Proof-of-Work (PoW).md",
     "Blockchain ⛓/Proof-of-Stake (PoS).md",
     "Blockchain ⛓/Smart Contracts.md",
-    "Untitled.md",
-    "Blockchain/Proof-of-Work (PoW).md",
-    "Blockchain/What is a blockchain.md",
-    "Blockchain/What is mining?.md"
+    "Untitled.md"
   ]
 }
