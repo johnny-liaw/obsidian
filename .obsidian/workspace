@@ -9,7 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "21Aug24-1946.md",
+            "file": "Fleeting Notes/Intro To Blockchain & Smart Contracts.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "83d843f7c3a110d6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Literature Notes/Untitled.md",
             "mode": "source"
           }
         }
@@ -52,7 +63,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352
+    "width": 352,
+    "collapsed": true
   },
   "right": {
     "id": "2120d96e7bb5030a",
@@ -68,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "21Aug24-1946.md",
+                "file": "Literature Notes/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "21Aug24-1946.md"
+                "file": "Literature Notes/Untitled.md"
               }
             }
           }
@@ -108,17 +120,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8e12f8f86eff8186",
+  "active": "83d843f7c3a110d6",
   "lastOpenFiles": [
-    "21Aug24-1946.md",
+    "Literature Notes/Untitled.md",
+    "Fleeting Notes/Intro To Blockchain & Smart Contracts.md",
+    "Fleeting Notes/Untitled.md",
     "Templates 📝/General Note.md",
+    "21Aug24-1946.md",
     "Templates 📝/Untitled 1.md",
     "Templates 📝/Untitled.md",
     "Permanent Notes/Software Engineering 💻/Tooling/Erlang/Supervisor.md",
     "Fleeting Notes/Smart Contacts.md",
-    "Permanent Notes/Blockchain ⛓/What is a blockchain.md",
-    "Permanent Notes/Blockchain ⛓/Smart Contracts.md",
-    "Permanent Notes/21Aug24-1900.md",
-    "21Aug24-1900.md"
+    "Permanent Notes/Blockchain ⛓/What is a blockchain.md"
   ]
 }
