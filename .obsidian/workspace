@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fleeting Notes/Intro To Blockchain & Smart Contracts.md",
+            "file": "Templates 📝/General Note.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting Notes/Intro To Blockchain & Smart Contracts.md",
+                "file": "Templates 📝/General Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleeting Notes/Intro To Blockchain & Smart Contracts.md"
+                "file": "Templates 📝/General Note.md"
               }
             }
           }
@@ -110,12 +110,12 @@
   },
   "active": "f42958a5a34c6789",
   "lastOpenFiles": [
+    "Templates 📝/General Note.md",
     "Fleeting Notes/Smart Contacts.md",
     "Permanent Notes/Blockchain ⛓/What is a blockchain.md",
     "Permanent Notes/Blockchain ⛓/Smart Contracts.md",
     "Permanent Notes/21Aug24-1900.md",
     "21Aug24-1900.md",
-    "Templates 📝/General Note.md",
     "Blockchain ⛓/Proof-of-Work (PoW).md",
     "Blockchain ⛓/Proof-of-Stake (PoS).md",
     "Blockchain ⛓/Smart Contracts.md",
