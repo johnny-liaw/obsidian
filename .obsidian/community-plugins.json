@@ -1,7 +1,7 @@
 [
   "obsidian-vimrc-support",
   "sliding-panes-obsidian",
-  "obsidian-emoji-toolbar",
   "obsidian-git",
-  "emoji-shortcodes"
+  "emoji-shortcodes",
+  "templater-obsidian"
 ]
