@@ -23,6 +23,8 @@ Contract accounts:
 > 💡 Contract to contract communication are called ==message calls==
 
 
+## Contract Message Calls
+
 
 
 
