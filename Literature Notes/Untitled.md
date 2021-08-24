@@ -8,9 +8,19 @@
 
 ## EOA vs Contract Accounts
 There are 2 main types of accounts in Ethereum:
-- Contract accounts:
-	- Has no ether balance
-	- 
+- Contract accounts AND
+- Externally owned accounts
+
+Externally Owned Accounts:
+- Can send/receive either
+- Controleld by private key.
+- Has no code logic associated with it.
+
+Contract accounts:
+- Can send/receive ether
+- Has code logic associated with it.
+	- Code execution is triggered by transactions or message calls from other contracts.
+> 💡 Contract to contract communication are called ==message calls==
 
 
 
