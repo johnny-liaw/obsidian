@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "f42958a5a34c6789",
+        "id": "8e12f8f86eff8186",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Templates 📝/General Note.md",
+            "file": "21Aug24-1946.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates 📝/General Note.md",
+                "file": "21Aug24-1946.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates 📝/General Note.md"
+                "file": "21Aug24-1946.md"
               }
             }
           }
@@ -108,17 +108,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f42958a5a34c6789",
+  "active": "8e12f8f86eff8186",
   "lastOpenFiles": [
+    "21Aug24-1946.md",
     "Templates 📝/General Note.md",
+    "Templates 📝/Untitled 1.md",
+    "Templates 📝/Untitled.md",
+    "Permanent Notes/Software Engineering 💻/Tooling/Erlang/Supervisor.md",
     "Fleeting Notes/Smart Contacts.md",
     "Permanent Notes/Blockchain ⛓/What is a blockchain.md",
     "Permanent Notes/Blockchain ⛓/Smart Contracts.md",
     "Permanent Notes/21Aug24-1900.md",
-    "21Aug24-1900.md",
-    "Blockchain ⛓/Proof-of-Work (PoW).md",
-    "Blockchain ⛓/Proof-of-Stake (PoS).md",
-    "Blockchain ⛓/Smart Contracts.md",
-    "Untitled.md"
+    "21Aug24-1900.md"
   ]
 }
