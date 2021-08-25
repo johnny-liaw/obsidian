@@ -1,7 +1,7 @@
 {
   "collapse-filter": false,
   "search": "Blockchain",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
@@ -17,6 +17,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 1.343657087079022,
+  "scale": 0.9846573987124326,
   "close": false
 }

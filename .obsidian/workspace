@@ -24,6 +24,14 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "71947f2c762a2dc8",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -50,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Blockchain",
+                "query": "tag:#Questions",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -59,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -79,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature Notes/Intro to Blockchain & Smart contracts.md",
+                "file": "Fleeting Notes/Intro To Blockchain & Smart Contracts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,21 +116,22 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature Notes/Intro to Blockchain & Smart contracts.md"
+                "file": "Fleeting Notes/Intro To Blockchain & Smart Contracts.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "599230ae90d2baf8",
+  "active": "050b9de0379b4de2",
   "lastOpenFiles": [
-    "Literature Notes/Intro to Blockchain & Smart contracts.md",
     "Fleeting Notes/Intro To Blockchain & Smart Contracts.md",
+    "Literature Notes/Intro to Blockchain & Smart contracts.md",
     "General/Questions.md",
     "Literature Notes/Questions.md",
     "Literature Notes/Untitled.md",

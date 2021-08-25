@@ -51,7 +51,12 @@ The point of blockchain is that it is fair, verifiable and ==deterministic==. In
 - No node specific logic (timezone, Ip addr, etc).
 
 ## How are contracts executed
-- A contract is executed by every node attempting to mine 
+- A contract is executed by every node attempting to mine a block containing the transaction to that contract.
+	- ❓ So do transacteions only exist on specific blocks?
+	- How many nodes are there mining a block?
+		- What if 50% of the nodes mining a block illegitimize and illegitimate transaction? #Questions/Blockchain 
+
+## Blocktime
 
 
 
