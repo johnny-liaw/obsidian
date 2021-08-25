@@ -59,9 +59,13 @@ The point of blockchain is that it is fair, verifiable and ==deterministic==. In
 ## Blocktime
 The time taken for a new block to be added to the blockchain.
 - A block can be added to the chain when it's ==hash== is found.
+	- The hash problem is variable by the network based on the average hash solve time at that instant.
 - A hash is generated from the data within a block + the hash of the previous block in the chain.
-- This is for security reasons, so say a block was illegitimately added, 
-
+- This is for security reasons, need to explore more why.
+	- The longer it takes to mint a block, the less likely a fradudulent actor would be able to produce the longer chain 
+- Seems to be there's a lot more that goes into it other than security: https://bitcoin.stackexchange.com/questions/1863/why-was-the-target-block-time-chosen-to-be-10-minutes
+	- https://www.buybitcoinworldwide.com/confirmations/
+- Blocktime video: https://www.youtube.com/watch?v=bBC-nXj3Ng4&ab_channel=3Blue1Brown
 
 
 [^1]: https://kobl.one/blog/create-full-ethereum-keypair-and-address/
