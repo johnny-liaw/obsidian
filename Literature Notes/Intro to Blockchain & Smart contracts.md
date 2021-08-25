@@ -41,16 +41,22 @@ Contract accounts:
 - Multiparty decision making
 
 ## Ethereum Computation Requirements
-The point of blockchain is that it is fair, verifiable. In order for that to happen every node must produce the same result given the same resutls. (A very functional nature at that). As such blockchain computations have the following requirements:
+The point of blockchain is that it is fair, verifiable and ==deterministic==. In order for that to happen every node must produce the same result given the same resutls. (A very functional nature at that). As such blockchain computations have the following requirements:
 - No network requests
+	- The blockchain itself should have everything it needs to verify it self.
+	- > 💡 Gathering off chain data and pasting in the chain is called working with an ==oracle==[^4]
 - No randomness
 - No asynchronicity
+	- ❓ I haven't figured this out yet #Questions/Blockchain
 - No node specific logic (timezone, Ip addr, etc).
 
+## How are contracts executed
+- A contract is executed by every node attempting to mine 
 
 
 
-#### References
+
 [^1]: https://kobl.one/blog/create-full-ethereum-keypair-and-address/
 [^2]: https://ethereum.stackexchange.com/questions/12065/what-is-the-difference-between-a-call-message-call-and-a-message
 [^3]: https://www.badykov.com/ethereum/2018/06/17/message-calls-in-ethereum/
+[^4]: https://ethereum.stackexchange.com/questions/301/why-cant-contracts-make-api-calls

@@ -10,6 +10,6 @@
   "trigger_on_file_creation": true,
   "enable_system_commands": false,
   "shell_path": "",
-  "empty_file_template": "Templates/General Note",
+  "empty_file_template": "Templates/Fleeting Node",
   "syntax_highlighting": true
 }
