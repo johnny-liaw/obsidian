@@ -57,7 +57,10 @@ The point of blockchain is that it is fair, verifiable and ==deterministic==. In
 		- What if 50% of the nodes mining a block illegitimize and illegitimate transaction? #Questions/Blockchain 
 
 ## Blocktime
-
+The time taken for a new block to be added to the blockchain.
+- A block can be added to the chain when it's ==hash== is found.
+- A hash is generated from the data within a block + the hash of the previous block in the chain.
+- This is for security reasons, so say a block was illegitimately added, 
 
 
 
