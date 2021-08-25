@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting Notes/Intro To Blockchain & Smart Contracts.md",
+                "file": "Literature Notes/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleeting Notes/Intro To Blockchain & Smart Contracts.md"
+                "file": "Literature Notes/Untitled.md"
               }
             }
           }
@@ -120,10 +120,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8e12f8f86eff8186",
+  "active": "83d843f7c3a110d6",
   "lastOpenFiles": [
-    "Fleeting Notes/Intro To Blockchain & Smart Contracts.md",
     "Literature Notes/Untitled.md",
+    "Fleeting Notes/Intro To Blockchain & Smart Contracts.md",
     "Fleeting Notes/Untitled.md",
     "Templates 📝/General Note.md",
     "21Aug24-1946.md",

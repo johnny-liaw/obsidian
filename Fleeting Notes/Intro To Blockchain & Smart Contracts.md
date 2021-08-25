@@ -18,7 +18,7 @@
 
 - Smart contract instruction are public.
 - Smart contracdt data is public
-- Small amount of storage can be _very expensive_
+- Small amount of storage can be _very expensive_ ❌ not true after research. Cost is dependent on gas and that depends on the computation needed to store such data.
 - A contract state cannot change once it is deployed.
 
 - Every computation on the blockchain must be _determininistic_:

@@ -17,13 +17,36 @@ Externally Owned Accounts:
 - Has no code logic associated with it.
 
 Contract accounts:
-- Can send/receive ether
-- Has code logic associated with it.
+- Has data that is public for anyone to see.
+- Can send/receive ether.
+- Has code logic associated with it that is public.
 	- Code execution is triggered by transactions or message calls from other contracts.
 	
 > 💡 Contract to contract communication are called ==message calls==[^2]
 
 > 💡 There are a 4 main types of message calls in Ethereum. Contract to contract communication is specifically ==DELEGATECALL==.[^3]
+
+## Turing completeness
+- A concept that describes a programming language's ability to perform tasks.
+- If the program can complete tasks ran by the ==universal turing machine==, then it is considered _turing complete_.
+
+## Smart contract usecase:
+- Decentrlized Finance (DeFi)
+- Non fungible tokens (NFTs)
+- Auctions
+- Elections
+- Trading
+- Resource sharing
+- Donations.
+- Multiparty decision making
+
+## Ethereum Computation Requirements
+The point of blockchain is that it is fair, verifiable. In order for that to happen every node must produce the same result given the same resutls. (A very functional nature at that). As such blockchain computations have the following requirements:
+- No network requests
+- No randomness
+- No asynchronicity
+- No node specific logic (timezone, Ip addr, etc).
+
 
 
 
