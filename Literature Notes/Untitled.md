@@ -20,16 +20,14 @@ Contract accounts:
 - Can send/receive ether
 - Has code logic associated with it.
 	- Code execution is triggered by transactions or message calls from other contracts.
-> 💡 Contract to contract communication are called ==message calls==
+	
+> 💡 Contract to contract communication are called ==message calls==[^2]
 
-
-## Contract Message Calls
-[^2] message call ref
-
+> 💡 There are a 4 main types of message calls in Ethereum. Contract to contract communication is specifically ==DELEGATECALL==.[^3]
 
 
 
----
-### References
+#### References
 [^1]: https://kobl.one/blog/create-full-ethereum-keypair-and-address/
-[^2]: https://ethdocs.org/en/latest/account-management.html?highlight=address#keyfiles
+[^2]: https://ethereum.stackexchange.com/questions/12065/what-is-the-difference-between-a-call-message-call-and-a-message
+[^3]: https://www.badykov.com/ethereum/2018/06/17/message-calls-in-ethereum/
