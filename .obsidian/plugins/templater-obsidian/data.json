@@ -10,6 +10,6 @@
   "trigger_on_file_creation": true,
   "enable_system_commands": false,
   "shell_path": "",
-  "empty_file_template": "Templates/Fleeting Node",
+  "empty_file_template": "",
   "syntax_highlighting": true
 }
