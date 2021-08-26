@@ -15,12 +15,12 @@
         }
       },
       {
-        "id": "050b9de0379b4de2",
+        "id": "1d85d46d4a38895b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fleeting Notes/Intro To Blockchain & Smart Contracts.md",
+            "file": "Permanent Notes/Blockchain ⛓/Ethereum Keypairs.md",
             "mode": "source"
           }
         }
@@ -58,8 +58,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Questions",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -88,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature Notes/Intro to Blockchain & Smart contracts.md",
+                "file": "Permanent Notes/Blockchain ⛓/Ethereum Keypairs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature Notes/Intro to Blockchain & Smart contracts.md"
+                "file": "Permanent Notes/Blockchain ⛓/Ethereum Keypairs.md"
               }
             }
           }
@@ -128,8 +127,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "599230ae90d2baf8",
+  "active": "1d85d46d4a38895b",
   "lastOpenFiles": [
+    "Permanent Notes/Blockchain ⛓/Untitled.md",
     "Literature Notes/Intro to Blockchain & Smart contracts.md",
     "Fleeting Notes/Intro To Blockchain & Smart Contracts.md",
     "General/Questions.md",
@@ -138,7 +138,6 @@
     "21Aug24-1946.md",
     "Fleeting Notes/Untitled.md",
     "Templates 📝/General Note.md",
-    "Templates 📝/Untitled 1.md",
-    "Templates 📝/Untitled.md"
+    "Templates 📝/Untitled 1.md"
   ]
 }

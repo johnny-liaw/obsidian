@@ -64,8 +64,12 @@ The time taken for a new block to be added to the blockchain.
 - This is for security reasons, need to explore more why.
 	- The longer it takes to mint a block, the less likely a fradudulent actor would be able to produce the longer chain that fools everybody else[^5].
 	- Lets say a block is added once every second vs 10 minutes, it's a lot less likely that a single fraudulent actor is able to create the longest chain of blocks with the 10 min blocktime whilst competing with the rest of the nodes in the world who are also adding blocks to the chain.
-- Seems to be there's a lot more that goes into it other than security: https://bitcoin.stackexchange.com/questions/1863/why-was-the-target-block-time-chosen-to-be-10-minutes
-	- https://www.buybitcoinworldwide.com/confirmations/
+	- Also, the longer the blocktime, the less wastage there is.
+		- Say latency is 1 minute.
+		- For a blocktime of 2 minutes, the wastage is 50%. B/c at the 1 minute mark a miner discovered the block was already solved.
+		- For a blocktime of 10 minutes, the wastage is 10%. B/c at 1/10th mark of it's operation, the miner discovers that the block was already solved. [^6]
+		- ❓ I would like to disagree with the literature in regards to the above:
+			- Lets say that an average computer is capable of computing 10k ops/min. Irregardless of the block time, the number of ops wasted would be the same, as it's dependent on the network latency. How does an increased blocktime decrease wastage? #Questions/Blockchain 
 
 
 [^1]: https://kobl.one/blog/create-full-ethereum-keypair-and-address/
@@ -73,3 +77,4 @@ The time taken for a new block to be added to the blockchain.
 [^3]: https://www.badykov.com/ethereum/2018/06/17/message-calls-in-ethereum/
 [^4]: https://ethereum.stackexchange.com/questions/301/why-cant-contracts-make-api-calls
 [^5]: https://youtu.be/bBC-nXj3Ng4?t=1199
+[^6]: https://medium.facilelogin.com/the-mystery-behind-block-time-63351e35603a#:~:text=Block%20time%20defines%20the%20time%20it%20takes%20to%20mine%20a,between%2010%20to%2019%20seconds.
