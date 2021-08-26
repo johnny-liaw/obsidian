@@ -24,7 +24,11 @@ Contract accounts:
 	
 > 💡 Contract to contract communication are called ==message calls==[^2]
 
+^3f0283
+
 > 💡 There are a 4 main types of message calls in Ethereum. Contract to contract communication is specifically ==DELEGATECALL==.[^3]
+
+^25c7df
 
 ## Turing completeness
 - A concept that describes a programming language's ability to perform tasks.

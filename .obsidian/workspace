@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Literature Notes/Intro to Blockchain & Smart contracts.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       },
@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Permanent Notes/Blockchain ⛓/Externally Owned Accounts.md",
+            "file": "Permanent Notes/Blockchain ⛓/Message Calls.md",
             "mode": "source"
           }
         }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Permanent Notes/Blockchain ⛓/Externally Owned Accounts.md",
+                "file": "Permanent Notes/Blockchain ⛓/Message Calls.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Permanent Notes/Blockchain ⛓/Externally Owned Accounts.md"
+                "file": "Permanent Notes/Blockchain ⛓/Message Calls.md"
               }
             }
           }
@@ -129,15 +129,15 @@
   },
   "active": "c0c24e6b27d67e6f",
   "lastOpenFiles": [
+    "Permanent Notes/Blockchain ⛓/Message Calls.md",
+    "Literature Notes/Intro to Blockchain & Smart contracts.md",
+    "Permanent Notes/Blockchain ⛓/Smart Contracts.md",
     "Permanent Notes/Blockchain ⛓/Externally Owned Accounts.md",
     "Templates/Fleeting Note.md",
-    "Permanent Notes/Blockchain ⛓/Smart Contracts.md",
     "Permanent Notes/Blockchain ⛓/Ethereum Keypairs.md",
     "Permanent Notes/Blockchain ⛓/What is a blockchain.md",
     "Permanent Notes/Blockchain ⛓/Proof-of-Work (PoW).md",
     "Permanent Notes/Blockchain ⛓/Proof-of-Stake (PoS).md",
-    "Permanent Notes/Blockchain ⛓/What is mining?.md",
-    "Literature Notes/Intro to Blockchain & Smart contracts.md",
-    "Permanent Notes/Blockchain ⛓/old smart contracts.md"
+    "Permanent Notes/Blockchain ⛓/What is mining?.md"
   ]
 }
