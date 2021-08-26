@@ -11,5 +11,4 @@
 
 
 ---
-#Blockchain/smart-contracts
 #Blockchain/PoW

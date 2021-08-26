@@ -70,6 +70,12 @@ The time taken for a new block to be added to the blockchain.
 		- For a blocktime of 10 minutes, the wastage is 10%. B/c at 1/10th mark of it's operation, the miner discovers that the block was already solved. [^6]
 		- ❓ I would like to disagree with the literature in regards to the above:
 			- Lets say that an average computer is capable of computing 10k ops/min. Irregardless of the block time, the number of ops wasted would be the same, as it's dependent on the network latency. How does an increased blocktime decrease wastage? #Questions/Blockchain 
+			
+#### Tags
+#ungraphed
+
+#### References
+[[Fleeting Notes/Intro To Blockchain & Smart Contracts]]
 
 
 [^1]: https://kobl.one/blog/create-full-ethereum-keypair-and-address/

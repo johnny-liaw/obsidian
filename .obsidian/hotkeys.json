@@ -172,5 +172,13 @@
       ],
       "key": "T"
     }
+  ],
+  "app:delete-file": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Backspace"
+    }
   ]
 }
