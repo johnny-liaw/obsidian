@@ -62,13 +62,14 @@ The time taken for a new block to be added to the blockchain.
 	- The hash problem is variable by the network based on the average hash solve time at that instant.
 - A hash is generated from the data within a block + the hash of the previous block in the chain.
 - This is for security reasons, need to explore more why.
-	- The longer it takes to mint a block, the less likely a fradudulent actor would be able to produce the longer chain 
+	- The longer it takes to mint a block, the less likely a fradudulent actor would be able to produce the longer chain that fools everybody else[^5].
+	- Lets say a block is added once every second vs 10 minutes, it's a lot less likely that a single fraudulent actor is able to create the longest chain of blocks with the 10 min blocktime whilst competing with the rest of the nodes in the world who are also adding blocks to the chain.
 - Seems to be there's a lot more that goes into it other than security: https://bitcoin.stackexchange.com/questions/1863/why-was-the-target-block-time-chosen-to-be-10-minutes
 	- https://www.buybitcoinworldwide.com/confirmations/
-- Blocktime video: https://www.youtube.com/watch?v=bBC-nXj3Ng4&ab_channel=3Blue1Brown
 
 
 [^1]: https://kobl.one/blog/create-full-ethereum-keypair-and-address/
 [^2]: https://ethereum.stackexchange.com/questions/12065/what-is-the-difference-between-a-call-message-call-and-a-message
 [^3]: https://www.badykov.com/ethereum/2018/06/17/message-calls-in-ethereum/
 [^4]: https://ethereum.stackexchange.com/questions/301/why-cant-contracts-make-api-calls
+[^5]: https://youtu.be/bBC-nXj3Ng4?t=1199
