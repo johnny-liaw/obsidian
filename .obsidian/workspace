@@ -9,28 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Literature Notes/Intro to Blockchain & Smart contracts.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "c0c24e6b27d67e6f",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Permanent Notes/Blockchain ⛓/Message Calls.md",
+            "file": "Fleeting Notes/Exploring Smart Contracts.md",
             "mode": "source"
           }
-        }
-      },
-      {
-        "id": "91b0ca1b3d70e3c7",
-        "type": "leaf",
-        "state": {
-          "type": "graph",
-          "state": {}
         }
       }
     ],
@@ -87,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Permanent Notes/Blockchain ⛓/Message Calls.md",
+                "file": "Fleeting Notes/Exploring Smart Contracts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Permanent Notes/Blockchain ⛓/Message Calls.md"
+                "file": "Fleeting Notes/Exploring Smart Contracts.md"
               }
             }
           }
@@ -127,17 +108,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c0c24e6b27d67e6f",
+  "active": "5bd91f21a4ea8a4a",
   "lastOpenFiles": [
-    "Permanent Notes/Blockchain ⛓/Message Calls.md",
+    "Fleeting Notes/Exploring Smart Contracts.md",
+    "Templates/Untitled.md",
+    "Templates/Fleeting Note.md",
+    "Fleeting Notes/Intro To Blockchain & Smart Contracts.md",
+    "Literature Notes/Untitled.md",
     "Literature Notes/Intro to Blockchain & Smart contracts.md",
+    "Permanent Notes/Blockchain ⛓/Message Calls.md",
     "Permanent Notes/Blockchain ⛓/Smart Contracts.md",
     "Permanent Notes/Blockchain ⛓/Externally Owned Accounts.md",
-    "Templates/Fleeting Note.md",
-    "Permanent Notes/Blockchain ⛓/Ethereum Keypairs.md",
-    "Permanent Notes/Blockchain ⛓/What is a blockchain.md",
-    "Permanent Notes/Blockchain ⛓/Proof-of-Work (PoW).md",
-    "Permanent Notes/Blockchain ⛓/Proof-of-Stake (PoS).md",
-    "Permanent Notes/Blockchain ⛓/What is mining?.md"
+    "Permanent Notes/Blockchain ⛓/Ethereum Keypairs.md"
   ]
 }
