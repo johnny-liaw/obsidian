@@ -7,11 +7,8 @@
         "id": "5bd91f21a4ea8a4a",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Fleeting Notes/Exploring Smart Contracts.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting Notes/Exploring Smart Contracts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,9 +91,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Fleeting Notes/Exploring Smart Contracts.md"
-              }
+              "state": {}
             }
           }
         ],
