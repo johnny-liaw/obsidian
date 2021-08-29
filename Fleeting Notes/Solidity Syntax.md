@@ -51,12 +51,39 @@ function setValue() external {
 // the `view` of the 1st function means it's readonly
 ```
 
-## Some Stuff
+###### view
+- means readonly function
+- uses [[eth_call]]
+###### pure
+- means only computation
+###### no view/pure
+- means will alter chain state
+- uses [[eth_sendTransaction]]
+###### private
+- function can only be called within the smart contract
+###### internal
+- Can only be called within contract, and contract's that inherit the current contract
+###### external
+- Can only be called by external contracts and accounts
+###### public
+- Can be called anywhere, inside/outside the contract
+- the most permissive function visibility.
+
+
+
+## Variable visibility
+```
+private // a private variable
+internal // can be read inside the contract or contract that inheirt from it
+external // can only be called by external contracts and 
+```
+
+##
 
 
 #### Tags
 #unsummarised 
 
 #### References
-
+- https://playground.open-rpc.org/?schemaUrl=https://raw.githubusercontent.com/ethereum/eth1.0-apis/assembled-spec/openrpc.json&uiSchema%5BappBar%5D%5Bui:splitView%5D=false&uiSchema%5BappBar%5D%5Bui:input%5D=false&uiSchema%5BappBar%5D%5Bui:examplesDropdown%5D=false
 
