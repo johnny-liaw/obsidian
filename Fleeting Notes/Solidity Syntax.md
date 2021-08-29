@@ -102,7 +102,21 @@ bool[3] boolArray; // fixed sized array of 3 elements
 // 2. Memory arrays -> not saved on chain
 // has to declare size
 
-// 3. 
+function bar() external {
+	// memory arrays have to be declared inside a function
+	// below is memory array if size 10
+	uint[] memory newArray = new uint[](10);
+	// .push fn doesn't exist for memory array
+	
+	// example of instantiating values
+	newArray[0] = some value...
+	
+	// delete element from array
+	delete newArray[0]
+}
+
+// 3. Arrays as fn params
+function fooBar(uint[] calldata myArg) external { ... }
 ```
 
 
