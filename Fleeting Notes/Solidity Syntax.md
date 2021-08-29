@@ -69,21 +69,48 @@ function setValue() external {
 - Can be called anywhere, inside/outside the contract
 - the most permissive function visibility.
 
-
-
 ## Variable visibility
 ```
 private // a private variable
 internal // can be read inside the contract or contract that inheirt from it
-external // can only be called by external contracts and 
+external // can only be called by external contracts and accounts
+public // can be called from anywhere
+```
+[^1]
+
+## Built-in variables
+```solidity
+// tx
+tx.origin // the transaction origin, irregardless of how many chained contracts there are
+
+//msg
+msg.value // in wei
+msg.sender
+
+// block
+block/timeStamp // time block was mined
 ```
 
+## Arrays
+```solidity
+// 1. Storage arrays -> saved on chain
+uint[] myArray;
+bool[3] boolArray; // fixed sized array of 3 elements
+- bool.push(..)
+- delete bool[0]
+
+// 2. Memory arrays -> not saved on chain
+// has to declare size
+
+// 3. 
+```
+
+
 ##
-
-
 #### Tags
 #unsummarised 
 
 #### References
 - https://playground.open-rpc.org/?schemaUrl=https://raw.githubusercontent.com/ethereum/eth1.0-apis/assembled-spec/openrpc.json&uiSchema%5BappBar%5D%5Bui:splitView%5D=false&uiSchema%5BappBar%5D%5Bui:input%5D=false&uiSchema%5BappBar%5D%5Bui:examplesDropdown%5D=false
 
+[^1]: https://solidity-by-example.org/visibility/
