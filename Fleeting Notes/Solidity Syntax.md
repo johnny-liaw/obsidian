@@ -158,11 +158,50 @@ enum COLOR {
 ```
 ## Memory vs Storage
 ```solidity
+// 1. Storage
+- persistent on the blockchain
+- i.e. contracdt properties
+- acts as a pointer
 
+// 2. Memory
+- not persistent on chain
+- just a short term copy
 
+// 3. Stack
+- every simple variable declared in a function.
+
+// 4. calldata
+- Only aval for fn's that are `external` or `public`
+- b/c it refers to fn call data.
+- often used to interact with an ABI
+
+```
+## Events
+![[Pasted image 20210830195437.png]]
+```solidity
+// 1. declare event
+event NewTrade (
+	uint date,
+ 	address from,
+	address to,
+	uint amount,
+);
+
+// 2. emitting event
+emit NewTrade(now, msg.sender, to, amount);
+// a consumer of the event will receive the event
 
 
 ```
+## Payable keyword
+```solidity
+// 
+function invest() external payable {
+	
+}
+```
+
+
 ## 
 ## 
 ## 
