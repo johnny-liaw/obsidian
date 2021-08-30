@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Fleeting Notes/Solidity Syntax.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -52,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352
+    "width": 352,
+    "collapsed": true
   },
   "right": {
     "id": "2120d96e7bb5030a",

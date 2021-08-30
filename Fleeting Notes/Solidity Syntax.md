@@ -120,6 +120,23 @@ function fooBar(uint[] calldata myArg) external { ... }
 ```
 
 
+## Mappings
+```solidity
+mapping(address => uint) balances;
+
+// nested mapping
+mapping(address => mapping(address => bool)) balances;
+
+// array mapping
+mapping(address => uint[]) scores;
+// for the above the array is alr instantiated.
+```
+
+## Structs
+```solidity
+
+```
+##
 ##
 #### Tags
 #unsummarised 
