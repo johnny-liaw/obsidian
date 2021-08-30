@@ -195,7 +195,7 @@ emit NewTrade(now, msg.sender, to, amount);
 ```
 ## Payable keyword
 ```solidity
-// 
+// a fn that can process transactions
 function invest() external payable {
 	
 }
