@@ -134,7 +134,20 @@ mapping(address => uint[]) scores;
 
 ## Structs
 ```solidity
+struct User {
+	address addr;
+	uint score;
+	string name;
+}
 
+// usage
+User memory user = User(msg.sender, 2, name);
+User memory user2 = User({name: _name: score: 0, addr: msg.sender});
+
+// reading
+user2.addr;
+// update
+user2.score = 20;
 ```
 ##
 ##
