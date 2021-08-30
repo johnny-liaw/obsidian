@@ -149,8 +149,23 @@ user2.addr;
 // update
 user2.score = 20;
 ```
-##
-##
+## Enums
+```solidity
+enum COLOR {
+	GREEN,
+	BLUE,
+}
+```
+## Memory vs Storage
+```solidity
+
+
+
+
+```
+## 
+## 
+## 
 #### Tags
 #unsummarised 
 
