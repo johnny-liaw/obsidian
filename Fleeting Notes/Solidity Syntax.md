@@ -202,8 +202,33 @@ function invest() external payable {
 ```
 
 
-## 
-## 
+## Constructor
+```solidity
+
+// called once when you deploy the contract	
+contract MyContract {
+	uint a;
+	constructor(uint _d) public {
+		a = _a;
+	}
+	// if visilibyt is internal you can't deploy contract directly
+}
+```
+
+## Error handling
+```solidity
+// revert
+if (something) {
+	revert('this is why it reverts')
+}
+
+// require
+require(something, 'this is required');
+
+// assert
+
+// 
+```
 ## 
 #### Tags
 #unsummarised 
