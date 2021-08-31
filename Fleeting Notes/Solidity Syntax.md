@@ -229,6 +229,26 @@ require(something, 'this is required');
 
 // 
 ```
+## Modifier
+- could only be called inside a smart contract
+```solidity
+function foo(uint a) external myModifier(a) {
+	// do something
+}
+
+modifier myModifier (uint a) {
+	require...
+}
+
+```
+
+## Fallback function
+- 1 fallback fn per contract
+```solidity
+
+
+```
+## 
 ## 
 #### Tags
 #unsummarised 
