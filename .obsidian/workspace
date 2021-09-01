@@ -7,8 +7,11 @@
         "id": "40e77f163a043554",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Permanent Notes/Blockchain ⛓/Ethereum Contract Execution.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Permanent Notes/Blockchain ⛓/Ethereum Contract Execution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,7 +95,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Permanent Notes/Blockchain ⛓/Ethereum Contract Execution.md"
+              }
             }
           }
         ],
@@ -104,15 +110,15 @@
   },
   "active": "40e77f163a043554",
   "lastOpenFiles": [
+    "Permanent Notes/Blockchain ⛓/Ethereum Contract Execution.md",
+    "Permanent Notes/Blockchain ⛓/DELEGATECALL.md",
+    "Permanent Notes/Blockchain ⛓/Ethereum Computation Requirements.md",
+    "Permanent Notes/Blockchain ⛓/Message Calls.md",
     "Literature Notes/Intro to Blockchain & Smart contracts.md",
     "Permanent Notes/Blockchain ⛓/Blocktime.md",
-    "Permanent Notes/Blockchain ⛓/DELEGATECALL.md",
     "Permanent Notes/Blockchain ⛓/Smart Contracts.md",
     "Permanent Notes/Blockchain ⛓/Externally Owned Accounts.md",
     "Permanent Notes/Blockchain ⛓/Ethereum Keypairs.md",
-    "Permanent Notes/Blockchain ⛓/Ethereum Contract Execution.md",
-    "Templates/Permanent Note.md",
-    "Permanent Notes/Blockchain ⛓/Untitled.md",
-    "Permanent Notes/Blockchain ⛓/Message Calls.md"
+    "Templates/Permanent Note.md"
   ]
 }

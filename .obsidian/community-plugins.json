@@ -4,5 +4,7 @@
   "obsidian-git",
   "emoji-shortcodes",
   "templater-obsidian",
-  "cm-editor-syntax-highlight-obsidian"
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-sample-plugin",
+  "hot-reload"
 ]
