@@ -6,5 +6,8 @@
   "templater-obsidian",
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-sample-plugin",
-  "hot-reload"
+  "hot-reload",
+  "obsidian-excalidraw-plugin",
+  "table-editor-obsidian",
+  "obsidian-kanban"
 ]

@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "40e77f163a043554",
+        "id": "4d319c5df66a4fec",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Permanent Notes/Blockchain ⛓/Ethereum Computation Requirements.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Permanent Notes/Blockchain ⛓/Ethereum Computation Requirements.md",
+                "file": "Projects/obsidian-sheets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Permanent Notes/Blockchain ⛓/Ethereum Computation Requirements.md"
+                "file": "Projects/obsidian-sheets.md"
               }
             }
           }
@@ -108,17 +105,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "40e77f163a043554",
+  "active": "4d319c5df66a4fec",
   "lastOpenFiles": [
+    "Projects/obsidian-sheets.md",
+    "Projects/Untitled Kanban.md",
+    "Projects/Untitled Kanban 1.md",
+    "Untitled Kanban.md",
+    "Permanent Notes/Blockchain ⛓/Untitled Kanban 1.md",
+    "Permanent Notes/Blockchain ⛓/Untitled Kanban.md",
     "Permanent Notes/Blockchain ⛓/Ethereum Computation Requirements.md",
     "Permanent Notes/Blockchain ⛓/Ethereum Contract Execution.md",
     "Permanent Notes/Blockchain ⛓/DELEGATECALL.md",
-    "Permanent Notes/Blockchain ⛓/Message Calls.md",
-    "Literature Notes/Intro to Blockchain & Smart contracts.md",
-    "Permanent Notes/Blockchain ⛓/Blocktime.md",
-    "Permanent Notes/Blockchain ⛓/Smart Contracts.md",
-    "Permanent Notes/Blockchain ⛓/Externally Owned Accounts.md",
-    "Permanent Notes/Blockchain ⛓/Ethereum Keypairs.md",
-    "Templates/Permanent Note.md"
+    "Permanent Notes/Blockchain ⛓/Message Calls.md"
   ]
 }
