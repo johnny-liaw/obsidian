@@ -1,7 +1,7 @@
 {
   "collapse-filter": false,
-  "search": "",
-  "showTags": false,
+  "search": "path:\"Permanent Notes/Blockchain\"",
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
@@ -11,7 +11,7 @@
       "query": "path:\"Permanent Notes/Blockchain\"",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 4063176
       }
     }
   ],
@@ -25,6 +25,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 1.218240573384012,
+  "scale": 0.8777940346831312,
   "close": false
 }
