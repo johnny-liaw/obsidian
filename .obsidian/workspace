@@ -4,32 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "e60dd7e317736b52",
+        "id": "40e77f163a043554",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Literature Notes/Intro to Blockchain & Smart contracts.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "e623d9595552ac38",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Permanent Notes/Blockchain ⛓/Blocktime.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "4b84725263d7b2d2",
-        "type": "leaf",
-        "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       }
@@ -87,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Permanent Notes/Blockchain ⛓/Blocktime.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,9 +91,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Permanent Notes/Blockchain ⛓/Blocktime.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -127,10 +102,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e623d9595552ac38",
+  "active": "40e77f163a043554",
   "lastOpenFiles": [
-    "Permanent Notes/Blockchain ⛓/Blocktime.md",
     "Literature Notes/Intro to Blockchain & Smart contracts.md",
+    "Permanent Notes/Blockchain ⛓/Blocktime.md",
     "Permanent Notes/Blockchain ⛓/DELEGATECALL.md",
     "Permanent Notes/Blockchain ⛓/Smart Contracts.md",
     "Permanent Notes/Blockchain ⛓/Externally Owned Accounts.md",
