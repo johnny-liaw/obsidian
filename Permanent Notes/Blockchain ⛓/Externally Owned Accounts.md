@@ -14,6 +14,7 @@ Last modified: 26/08/2021 21:48:03
 
 
 #### Tags
+#Blockchain
 
 #### References
 [[Fleeting Notes/Intro To Blockchain & Smart Contracts]]

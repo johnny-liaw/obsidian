@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Permanent Notes/Blockchain ⛓/Ethereum Contract Execution.md",
+            "file": "Permanent Notes/Blockchain ⛓/Blocktime.md",
             "mode": "source"
           }
         }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Permanent Notes/Blockchain ⛓/Ethereum Contract Execution.md",
+                "file": "Permanent Notes/Blockchain ⛓/Blocktime.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Permanent Notes/Blockchain ⛓/Ethereum Contract Execution.md"
+                "file": "Permanent Notes/Blockchain ⛓/Blocktime.md"
               }
             }
           }
@@ -129,15 +129,15 @@
   },
   "active": "e623d9595552ac38",
   "lastOpenFiles": [
+    "Permanent Notes/Blockchain ⛓/Blocktime.md",
+    "Literature Notes/Intro to Blockchain & Smart contracts.md",
+    "Permanent Notes/Blockchain ⛓/DELEGATECALL.md",
+    "Permanent Notes/Blockchain ⛓/Smart Contracts.md",
+    "Permanent Notes/Blockchain ⛓/Externally Owned Accounts.md",
+    "Permanent Notes/Blockchain ⛓/Ethereum Keypairs.md",
     "Permanent Notes/Blockchain ⛓/Ethereum Contract Execution.md",
     "Templates/Permanent Note.md",
     "Permanent Notes/Blockchain ⛓/Untitled.md",
-    "Permanent Notes/Blockchain ⛓/Message Calls.md",
-    "Literature Notes/Intro to Blockchain & Smart contracts.md",
-    "Permanent Notes/Blockchain ⛓/Smart Contracts.md",
-    "Permanent Notes/Blockchain ⛓/Ethereum Computation Requirements.md",
-    "Permanent Notes/Blockchain ⛓/Ethereum Keypairs.md",
-    "Permanent Notes/Blockchain ⛓/What is a blockchain.md",
-    "Permanent Notes/Blockchain ⛓/DELEGATECALL.md"
+    "Permanent Notes/Blockchain ⛓/Message Calls.md"
   ]
 }

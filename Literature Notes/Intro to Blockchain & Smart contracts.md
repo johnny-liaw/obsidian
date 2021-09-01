@@ -66,7 +66,7 @@ The time taken for a new block to be added to the blockchain.
 	- The hash problem is variable by the network based on the average hash solve time at that instant.
 - A hash is generated from the data within a block + the hash of the previous block in the chain.
 - This is for security reasons, need to explore more why.
-	- The longer it takes to mint a block, the less likely a fradudulent actor would be able to produce the longer chain that fools everybody else[^5].
+	- The longer it takes to mint a block, the less likely a fradudulent actor would be able to produce the longer chain that fools everybody else[^5]. (this is not true after consideration, because all actors can only add one block every 10 minutes).
 	- Lets say a block is added once every second vs 10 minutes, it's a lot less likely that a single fraudulent actor is able to create the longest chain of blocks with the 10 min blocktime whilst competing with the rest of the nodes in the world who are also adding blocks to the chain.
 	- Also, the longer the blocktime, the less wastage there is.
 		- Say latency is 1 minute.

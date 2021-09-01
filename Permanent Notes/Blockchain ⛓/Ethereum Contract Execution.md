@@ -8,7 +8,8 @@ Last modified: 01/09/2021 16:18:59
 > 💡 Ethereum contracts are executed by a node mining a block containing a transaction to that contract.
 
 - When a transaction is made, it gets added to the block to be mined.
-- All nodes race to mind that specific block containing that transaction.
+- All nodes race to mind that specific block containing that transaction. 
+	- The time taken to mind a block is called [[Blocktime]]
 
 
 
