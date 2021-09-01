@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Permanent Notes/Blockchain ⛓/Ethereum Contract Execution.md",
+            "file": "Permanent Notes/Blockchain ⛓/Ethereum Computation Requirements.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Permanent Notes/Blockchain ⛓/Ethereum Contract Execution.md",
+                "file": "Permanent Notes/Blockchain ⛓/Ethereum Computation Requirements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Permanent Notes/Blockchain ⛓/Ethereum Contract Execution.md"
+                "file": "Permanent Notes/Blockchain ⛓/Ethereum Computation Requirements.md"
               }
             }
           }
@@ -110,9 +110,9 @@
   },
   "active": "40e77f163a043554",
   "lastOpenFiles": [
+    "Permanent Notes/Blockchain ⛓/Ethereum Computation Requirements.md",
     "Permanent Notes/Blockchain ⛓/Ethereum Contract Execution.md",
     "Permanent Notes/Blockchain ⛓/DELEGATECALL.md",
-    "Permanent Notes/Blockchain ⛓/Ethereum Computation Requirements.md",
     "Permanent Notes/Blockchain ⛓/Message Calls.md",
     "Literature Notes/Intro to Blockchain & Smart contracts.md",
     "Permanent Notes/Blockchain ⛓/Blocktime.md",

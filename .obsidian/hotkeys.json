@@ -180,5 +180,13 @@
       ],
       "key": "Backspace"
     }
+  ],
+  "obsidian-sample-plugin:create-new-sheet": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
+    }
   ]
 }
