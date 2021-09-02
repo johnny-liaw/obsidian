@@ -4,11 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "4d319c5df66a4fec",
+        "id": "1443d503dbde96e2",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "kanban",
+          "state": {
+            "file": "Projects/obsidian-sheets.md"
+          }
         }
       }
     ],
@@ -105,7 +107,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4d319c5df66a4fec",
+  "active": "1443d503dbde96e2",
   "lastOpenFiles": [
     "Projects/obsidian-sheets.md",
     "Projects/Untitled Kanban.md",
