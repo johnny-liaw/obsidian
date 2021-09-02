@@ -4,13 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1443d503dbde96e2",
+        "id": "97ddd6c17f4f6a80",
         "type": "leaf",
         "state": {
-          "type": "kanban",
-          "state": {
-            "file": "Projects/obsidian-sheets.md"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -67,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/obsidian-sheets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,9 +91,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Projects/obsidian-sheets.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -107,17 +102,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1443d503dbde96e2",
+  "active": "97ddd6c17f4f6a80",
   "lastOpenFiles": [
+    "Untitled Kanban.md",
+    "Untitled Kanban 1.md",
+    "Untitled Kanban 2.md",
     "Projects/obsidian-sheets.md",
     "Projects/Untitled Kanban.md",
     "Projects/Untitled Kanban 1.md",
-    "Untitled Kanban.md",
     "Permanent Notes/Blockchain ⛓/Untitled Kanban 1.md",
     "Permanent Notes/Blockchain ⛓/Untitled Kanban.md",
     "Permanent Notes/Blockchain ⛓/Ethereum Computation Requirements.md",
-    "Permanent Notes/Blockchain ⛓/Ethereum Contract Execution.md",
-    "Permanent Notes/Blockchain ⛓/DELEGATECALL.md",
-    "Permanent Notes/Blockchain ⛓/Message Calls.md"
+    "Permanent Notes/Blockchain ⛓/Ethereum Contract Execution.md"
   ]
 }
