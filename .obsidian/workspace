@@ -4,23 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "9a050b0823c89c91",
+        "id": "84d309cf07c8db06",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Projects/Untitled Kanban.md",
+            "file": "Fleeting Notes/The Token Economy.md",
             "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "abd3313af83b8d5a",
-        "type": "leaf",
-        "state": {
-          "type": "excalidraw",
-          "state": {
-            "file": "Excalidraw/Drawing 2021-09-02 21.09.07.excalidraw.md"
           }
         }
       }
@@ -78,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2021-09-02 21.09.07.excalidraw.md",
+                "file": "Fleeting Notes/The Token Economy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2021-09-02 21.09.07.excalidraw.md"
+                "file": "Fleeting Notes/The Token Economy.md"
               }
             }
           }
@@ -118,17 +108,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "abd3313af83b8d5a",
+  "active": "84d309cf07c8db06",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2021-09-02 21.09.07.excalidraw.md",
+    "Untitled.md",
     "Projects/Untitled Kanban.md",
+    "Excalidraw/Drawing 2021-09-02 21.09.07.excalidraw.md",
     "Projects/obsidian-sheets.md",
     "Projects/Untitled Kanban 2.md",
     "Projects/Untitled Kanban 1.md",
     "Projects/Untitled Kanban 5.md",
     "Projects/Untitled Kanban 4.md",
     "Untitled Kanban.md",
-    "Untitled Kanban 1.md",
-    "Untitled Kanban 2.md"
+    "Untitled Kanban 1.md"
   ]
 }
