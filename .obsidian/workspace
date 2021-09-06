@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fleeting Notes/The Token Economy.md",
+            "file": "Literature Notes/Intro to Blockchain & Smart contracts.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Questions/Blockchain",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting Notes/The Token Economy.md",
+                "file": "Literature Notes/Intro to Blockchain & Smart contracts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleeting Notes/The Token Economy.md"
+                "file": "Literature Notes/Intro to Blockchain & Smart contracts.md"
               }
             }
           }
@@ -110,6 +111,7 @@
   },
   "active": "84d309cf07c8db06",
   "lastOpenFiles": [
+    "Literature Notes/Intro to Blockchain & Smart contracts.md",
     "Fleeting Notes/The Token Economy.md",
     "Untitled.md",
     "Projects/Untitled Kanban.md",
@@ -118,7 +120,6 @@
     "Projects/Untitled Kanban 2.md",
     "Projects/Untitled Kanban 1.md",
     "Projects/Untitled Kanban 5.md",
-    "Projects/Untitled Kanban 4.md",
-    "Untitled Kanban.md"
+    "Projects/Untitled Kanban 4.md"
   ]
 }
