@@ -199,6 +199,8 @@ emit NewTrade(now, msg.sender, to, amount);
 function invest() external payable {
 	
 }
+
+// if this is not added, ethereum would reject the transaction.
 ```
 
 

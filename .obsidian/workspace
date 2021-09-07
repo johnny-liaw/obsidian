@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Literature Notes/Intro to Blockchain & Smart contracts.md",
+            "file": "Fleeting Notes/Web3 - 3, 1st Sesh.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Questions/Blockchain",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature Notes/Intro to Blockchain & Smart contracts.md",
+                "file": "Fleeting Notes/Web3 - 3, 1st Sesh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature Notes/Intro to Blockchain & Smart contracts.md"
+                "file": "Fleeting Notes/Web3 - 3, 1st Sesh.md"
               }
             }
           }
@@ -111,15 +110,15 @@
   },
   "active": "84d309cf07c8db06",
   "lastOpenFiles": [
+    "Fleeting Notes/Web3 - 3, 1st Sesh.md",
+    "Fleeting Notes/Untitled.md",
+    "Fleeting Notes/Solidity Syntax.md",
     "Literature Notes/Intro to Blockchain & Smart contracts.md",
     "Fleeting Notes/The Token Economy.md",
     "Untitled.md",
     "Projects/Untitled Kanban.md",
     "Excalidraw/Drawing 2021-09-02 21.09.07.excalidraw.md",
     "Projects/obsidian-sheets.md",
-    "Projects/Untitled Kanban 2.md",
-    "Projects/Untitled Kanban 1.md",
-    "Projects/Untitled Kanban 5.md",
-    "Projects/Untitled Kanban 4.md"
+    "Projects/Untitled Kanban 2.md"
   ]
 }
