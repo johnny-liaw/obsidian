@@ -30,6 +30,10 @@ the above would error out. Because the evm has checks for these built in.
 ```solidity
 // address(this).balance is the balance of the smart contract;
 owner.call{ value: address(this).balance }("");
+
+// selling ether
+payable(msg.sender).call{ value: balance }("")
+
 ```
 
 
