@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fleeting Notes/Web3 - 3, 1st Sesh.md",
+            "file": "Fleeting Notes/Solidity Syntax.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting Notes/Web3 - 3, 1st Sesh.md",
+                "file": "Fleeting Notes/Solidity Syntax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleeting Notes/Web3 - 3, 1st Sesh.md"
+                "file": "Fleeting Notes/Solidity Syntax.md"
               }
             }
           }
@@ -110,15 +110,15 @@
   },
   "active": "84d309cf07c8db06",
   "lastOpenFiles": [
+    "Fleeting Notes/Solidity Syntax.md",
+    "Fleeting Notes/Web 3, 2nd Sesh.md",
     "Fleeting Notes/Web3 - 3, 1st Sesh.md",
     "Fleeting Notes/Untitled.md",
-    "Fleeting Notes/Solidity Syntax.md",
     "Literature Notes/Intro to Blockchain & Smart contracts.md",
     "Fleeting Notes/The Token Economy.md",
     "Untitled.md",
     "Projects/Untitled Kanban.md",
     "Excalidraw/Drawing 2021-09-02 21.09.07.excalidraw.md",
-    "Projects/obsidian-sheets.md",
-    "Projects/Untitled Kanban 2.md"
+    "Projects/obsidian-sheets.md"
   ]
 }

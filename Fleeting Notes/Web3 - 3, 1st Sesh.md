@@ -22,7 +22,7 @@ the above would error out. Because the evm has checks for these built in.
 
 ### EIP's to be familiar with
 - 20, 721, 165, 1155
-### Jacon's NFT talk
+### Jacob's NFT talk
 - https://www.youtube.com/watch?v=HpGl1_QVCjA&t=85s&ab_channel=BlockchainAccelerationFoundation
 ### what does `address payable` do?
 - it adds the .send and .transfer functions which are no longer recommended. https://consensys.net/diligence/blog/2019/09/stop-using-soliditys-transfer-now/
@@ -35,6 +35,7 @@ owner.call{ value: address(this).balance }("");
 payable(msg.sender).call{ value: balance }("")
 
 ```
+
 
 
 #### Tags
