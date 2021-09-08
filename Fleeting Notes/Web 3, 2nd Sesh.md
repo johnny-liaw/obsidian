@@ -36,6 +36,14 @@ it.sell();
 - perform alls tate modifications
 - send calls to other contracts
 
+### General Learnings
+1.
+```solidity
+address.call{ value: x }("")
+// the above calls with evm values 
+```
+
+
 #### Tags
 #unsummarised 
 
