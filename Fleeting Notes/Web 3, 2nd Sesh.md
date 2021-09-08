@@ -40,9 +40,17 @@ it.sell();
 1.
 ```solidity
 address.call{ value: x }("")
-// the above calls with evm values 
+// the above calls with evm values.
 ```
 
+2.
+Read lots of documentation 
+- https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/ERC20.sol
+- https://eips.ethereum.org/EIPS/eip-20
+
+3.
+Jacob alr has the youtube playlist here:
+ - https://www.youtube.com/playlist?list=PL0cPWYDSqQ2_F9QRvm1mynTw5yyPWn_s3
 
 #### Tags
 #unsummarised 
