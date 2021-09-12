@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "84d309cf07c8db06",
+        "id": "faa35ee2fd0f5827",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fleeting Notes/Solidity Syntax.md",
+            "file": "Ad Astra/2021-09-11.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting Notes/Solidity Syntax.md",
+                "file": "Ad Astra/2021-09-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,29 +96,37 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleeting Notes/Solidity Syntax.md"
+                "file": "Ad Astra/2021-09-11.md"
               }
+            }
+          },
+          {
+            "id": "f4948a54c88252a7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "84d309cf07c8db06",
+  "active": "faa35ee2fd0f5827",
   "lastOpenFiles": [
+    "Ad Astra/2021-09-11.md",
+    "2021-09-11.md",
+    "Templates/Daily Log.md",
+    "Ad Astra/web3/2021-09-11.md",
+    "Templates/Literature Note.md",
+    "Templates/Permanent Note.md",
+    "Templates/Untitled.md",
     "Fleeting Notes/Solidity Syntax.md",
     "Fleeting Notes/Web 3, 2nd Sesh.md",
-    "Fleeting Notes/Web3 - 3, 1st Sesh.md",
-    "Fleeting Notes/Untitled.md",
-    "Literature Notes/Intro to Blockchain & Smart contracts.md",
-    "Fleeting Notes/The Token Economy.md",
-    "Untitled.md",
-    "Projects/Untitled Kanban.md",
-    "Excalidraw/Drawing 2021-09-02 21.09.07.excalidraw.md",
-    "Projects/obsidian-sheets.md"
+    "Fleeting Notes/Web3 - 3, 1st Sesh.md"
   ]
 }
