@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ad Astra/2021-09-11.md",
-            "mode": "source"
+            "file": "Fleeting Notes/Solidity Syntax.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ad Astra/2021-09-11.md",
+                "file": "Fleeting Notes/Solidity Syntax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ad Astra/2021-09-11.md"
+                "file": "Fleeting Notes/Solidity Syntax.md"
               }
             }
           },
@@ -118,6 +118,7 @@
   },
   "active": "faa35ee2fd0f5827",
   "lastOpenFiles": [
+    "Fleeting Notes/Solidity Syntax.md",
     "Ad Astra/2021-09-11.md",
     "2021-09-11.md",
     "Templates/Daily Log.md",
@@ -125,7 +126,6 @@
     "Templates/Literature Note.md",
     "Templates/Permanent Note.md",
     "Templates/Untitled.md",
-    "Fleeting Notes/Solidity Syntax.md",
     "Fleeting Notes/Web 3, 2nd Sesh.md",
     "Fleeting Notes/Web3 - 3, 1st Sesh.md"
   ]
