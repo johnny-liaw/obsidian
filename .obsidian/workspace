@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ad Astra/2021-09-15.md",
+            "file": "Ad Astra/2021-09-16.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ad Astra/2021-09-15.md",
+                "file": "Ad Astra/2021-09-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ad Astra/2021-09-15.md"
+                "file": "Ad Astra/2021-09-16.md"
               }
             }
           },
@@ -118,6 +118,8 @@
   },
   "active": "faa35ee2fd0f5827",
   "lastOpenFiles": [
+    "Ad Astra/2021-09-16.md",
+    "2021-09-16.md",
     "Ad Astra/2021-09-15.md",
     "Ad Astra/2021-09-14.md",
     "Ad Astra/2021-09-13.md",
@@ -125,8 +127,6 @@
     "2021-09-15.md",
     "2021-09-14.md",
     "2021-09-13.md",
-    "Fleeting Notes/Solidity Syntax.md",
-    "2021-09-11.md",
-    "Templates/Daily Log.md"
+    "Fleeting Notes/Solidity Syntax.md"
   ]
 }
