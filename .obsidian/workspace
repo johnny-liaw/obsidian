@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ad Astra/2021-09-20.md",
+            "file": "Fleeting Notes/Web3 - 3, 1st Sesh.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": ".call",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ad Astra/2021-09-20.md",
+                "file": "Fleeting Notes/Web3 - 3, 1st Sesh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ad Astra/2021-09-20.md"
+                "file": "Fleeting Notes/Web3 - 3, 1st Sesh.md"
               }
             }
           },
@@ -118,6 +119,8 @@
   },
   "active": "faa35ee2fd0f5827",
   "lastOpenFiles": [
+    "Fleeting Notes/Web3 - 3, 1st Sesh.md",
+    "Fleeting Notes/Solidity Syntax.md",
     "Ad Astra/2021-09-20.md",
     "Ad Astra/2021-09-18.md",
     "Ad Astra/2021-09-14.md",
@@ -125,8 +128,6 @@
     "2021-09-20.md",
     "Ad Astra/2021-09-19.md",
     "2021-09-19.md",
-    "2021-09-18.md",
-    "Ad Astra/2021-09-17.md",
-    "2021-09-17.md"
+    "2021-09-18.md"
   ]
 }
