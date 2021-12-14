@@ -188,5 +188,13 @@
       ],
       "key": "R"
     }
+  ],
+  "slides:start": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "P"
+    }
   ]
 }

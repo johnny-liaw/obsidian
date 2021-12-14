@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ad Astra/2021-09-22.md",
-            "mode": "source"
+            "file": "Other/Diagrams.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ad Astra/2021-09-22.md",
+                "file": "Other/Diagrams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ad Astra/2021-09-22.md"
+                "file": "Other/Diagrams.md"
               }
             }
           },
@@ -108,8 +108,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -118,6 +117,8 @@
   },
   "active": "aa95ab722aa31700",
   "lastOpenFiles": [
+    "Other/Diagrams.md",
+    "Other/Untitled.md",
     "Ad Astra/2021-09-22.md",
     "Projects/Web3.md",
     "Ad Astra/2021-09-20.md",
@@ -125,8 +126,6 @@
     "2021-09-22.md",
     "Fleeting Notes/Transaction Signing.md",
     "Ad Astra/2021-09-13.md",
-    "Fleeting Notes/Untitled.md",
-    "Ad Astra/2021-09-15.md",
-    "Ad Astra/2021-09-18.md"
+    "Fleeting Notes/Untitled.md"
   ]
 }
