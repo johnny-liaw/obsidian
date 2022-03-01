@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Other/Diagrams.md",
+            "file": "Projects/Web3.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Other/Diagrams.md",
+                "file": "Projects/Web3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Other/Diagrams.md"
+                "file": "Projects/Web3.md"
               }
             }
           },
@@ -118,15 +118,15 @@
   },
   "active": "aa95ab722aa31700",
   "lastOpenFiles": [
-    "Other/Diagrams.md",
-    "Other/Untitled.md",
-    "Ad Astra/2021-09-22.md",
     "Projects/Web3.md",
-    "Ad Astra/2021-09-20.md",
-    "Ad Astra/2021-09-21.md",
-    "2021-09-22.md",
+    "Literature Notes/Intro to Blockchain & Smart contracts.md",
+    "Fleeting Notes/The Token Economy.md",
+    "Fleeting Notes/Web3 - 3, 1st Sesh.md",
+    "Fleeting Notes/Web 3, 2nd Sesh.md",
     "Fleeting Notes/Transaction Signing.md",
+    "Fleeting Notes/Exploring Smart Contracts.md",
+    "Fleeting Notes/Solidity Syntax.md",
     "Ad Astra/2021-09-13.md",
-    "Fleeting Notes/Untitled.md"
+    "Ad Astra/2021-09-11.md"
   ]
 }
