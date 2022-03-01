@@ -9,5 +9,7 @@
   "fileSortOrder": "byCreatedTime",
   "attachmentFolderPath": "Attachments",
   "obsidianCss": true,
-  "communityPluginSortOrder": "download"
+  "communityPluginSortOrder": "download",
+  "legacyEditor": false,
+  "livePreview": true
 }
