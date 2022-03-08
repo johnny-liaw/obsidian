@@ -4,5 +4,5 @@
 
 
 
-# Jons
+# Jobs
 [] https://quicknode.notion.site/QuickNode-Authorship-Program-d808a87ee50b48c9a16ed19b13e09115
