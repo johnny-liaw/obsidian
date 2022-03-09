@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ad Astra/2022-03-08.md",
+            "file": "Fleeting Notes/Hardhat.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "modifier",
+                "query": "tag:#Blockchain/mining",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ad Astra/2022-03-08.md",
+                "file": "Fleeting Notes/Hardhat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ad Astra/2022-03-08.md"
+                "file": "Fleeting Notes/Hardhat.md"
               }
             }
           },
@@ -118,15 +118,15 @@
   },
   "active": "0150b5bd38d01d4d",
   "lastOpenFiles": [
-    "Ad Astra/2022-03-08.md",
-    "Ad Astra/Untitled.md",
-    "Ad Astra/2021-09-22.md",
-    "Ad Astra/Untitled Kanban.md",
-    "Ad Astra/Untitled 1.md",
-    "Ad Astra/2021-09-20.md",
-    "Ad Astra/2021-09-21.md",
+    "Fleeting Notes/Hardhat.md",
+    "Permanent Notes/Blockchain ⛓/Ethereum Contract Execution.md",
+    "Permanent Notes/Blockchain ⛓/Blocktime.md",
+    "Permanent Notes/Blockchain ⛓/Ethereum Computation Requirements.md",
+    "Permanent Notes/Blockchain ⛓/DELEGATECALL.md",
+    "Permanent Notes/Blockchain ⛓/Message Calls.md",
+    "Permanent Notes/Blockchain ⛓/Smart Contracts.md",
+    "Permanent Notes/Blockchain ⛓/Externally Owned Accounts.md",
     "Literature Notes/Intro to Blockchain & Smart contracts.md",
-    "Fleeting Notes/Intro To Blockchain & Smart Contracts.md",
-    "Fleeting Notes/Transaction Signing.md"
+    "Fleeting Notes/Web 3, 2nd Sesh.md"
   ]
 }
