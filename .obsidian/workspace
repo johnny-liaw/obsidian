@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fleeting Notes/Hardhat.md",
+            "file": "Fleeting Notes/Solidity Syntax.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting Notes/Hardhat.md",
+                "file": "Fleeting Notes/Solidity Syntax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleeting Notes/Hardhat.md"
+                "file": "Fleeting Notes/Solidity Syntax.md"
               }
             }
           },
@@ -109,7 +109,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -118,15 +119,15 @@
   },
   "active": "0150b5bd38d01d4d",
   "lastOpenFiles": [
+    "Fleeting Notes/Solidity Syntax.md",
+    "Ad Astra/2022-03-09.md",
+    "Ad Astra/2022-03-08.md",
     "Fleeting Notes/Hardhat.md",
     "Permanent Notes/Blockchain ⛓/Ethereum Contract Execution.md",
     "Permanent Notes/Blockchain ⛓/Blocktime.md",
     "Permanent Notes/Blockchain ⛓/Ethereum Computation Requirements.md",
     "Permanent Notes/Blockchain ⛓/DELEGATECALL.md",
     "Permanent Notes/Blockchain ⛓/Message Calls.md",
-    "Permanent Notes/Blockchain ⛓/Smart Contracts.md",
-    "Permanent Notes/Blockchain ⛓/Externally Owned Accounts.md",
-    "Literature Notes/Intro to Blockchain & Smart contracts.md",
-    "Fleeting Notes/Web 3, 2nd Sesh.md"
+    "Permanent Notes/Blockchain ⛓/Smart Contracts.md"
   ]
 }
