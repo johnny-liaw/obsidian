@@ -7,12 +7,8 @@
         "id": "0150b5bd38d01d4d",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Fleeting Notes/Solidity Syntax.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting Notes/Solidity Syntax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,9 +91,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Fleeting Notes/Solidity Syntax.md"
-              }
+              "state": {}
             }
           },
           {
@@ -119,15 +112,15 @@
   },
   "active": "0150b5bd38d01d4d",
   "lastOpenFiles": [
-    "Fleeting Notes/Solidity Syntax.md",
+    "Permanent Notes/Blockchain ⛓/Message Calls.md",
     "Ad Astra/2022-03-09.md",
+    "Fleeting Notes/Solidity Syntax.md",
     "Ad Astra/2022-03-08.md",
     "Fleeting Notes/Hardhat.md",
     "Permanent Notes/Blockchain ⛓/Ethereum Contract Execution.md",
     "Permanent Notes/Blockchain ⛓/Blocktime.md",
     "Permanent Notes/Blockchain ⛓/Ethereum Computation Requirements.md",
     "Permanent Notes/Blockchain ⛓/DELEGATECALL.md",
-    "Permanent Notes/Blockchain ⛓/Message Calls.md",
     "Permanent Notes/Blockchain ⛓/Smart Contracts.md"
   ]
 }
