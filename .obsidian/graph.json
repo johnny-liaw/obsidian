@@ -1,7 +1,7 @@
 {
   "collapse-filter": false,
-  "search": "path:\"Permanent Notes/Blockchain\"",
-  "showTags": true,
+  "search": "",
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
@@ -25,6 +25,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.8777940346831312,
+  "scale": 0.6156200749898297,
   "close": true
 }
