@@ -7,8 +7,12 @@
         "id": "0150b5bd38d01d4d",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Permanent Notes/Blockchain ⛓/How Ethereum Works.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Permanent Notes/Blockchain ⛓/How Ethereum Works.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,7 +96,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Permanent Notes/Blockchain ⛓/How Ethereum Works.md"
+              }
             }
           },
           {
@@ -112,6 +119,7 @@
   },
   "active": "0150b5bd38d01d4d",
   "lastOpenFiles": [
+    "Permanent Notes/Blockchain ⛓/How Ethereum Works.md",
     "Permanent Notes/Blockchain ⛓/What is mining?.md",
     "Permanent Notes/Blockchain ⛓/Externally Owned Accounts.md",
     "Permanent Notes/Blockchain ⛓/Smart Contracts.md",
@@ -120,7 +128,6 @@
     "Permanent Notes/Blockchain ⛓/DELEGATECALL.md",
     "Permanent Notes/Blockchain ⛓/Ethereum Computation Requirements.md",
     "Permanent Notes/Blockchain ⛓/What is a blockchain.md",
-    "Permanent Notes/Blockchain ⛓/How Ethereum Works.md",
     "Permanent Notes/Blockchain ⛓/Untitled Kanban.md"
   ]
 }
