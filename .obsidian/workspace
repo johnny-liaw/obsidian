@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Permanent Notes/Blockchain ⛓/Solidity Syntax.md",
+            "file": "Literature Notes/Intro to Blockchain & Smart contracts.md",
             "mode": "preview",
             "source": false
           }
@@ -49,13 +49,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 352,
-    "collapsed": true
+    "width": 352
   },
   "right": {
     "id": "2120d96e7bb5030a",
@@ -71,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Permanent Notes/Blockchain ⛓/Solidity Syntax.md",
+                "file": "Literature Notes/Intro to Blockchain & Smart contracts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Permanent Notes/Blockchain ⛓/Solidity Syntax.md"
+                "file": "Literature Notes/Intro to Blockchain & Smart contracts.md"
               }
             }
           },
@@ -121,15 +119,15 @@
   },
   "active": "0150b5bd38d01d4d",
   "lastOpenFiles": [
-    "Permanent Notes/Blockchain ⛓/Solidity Syntax.md",
-    "Fleeting Notes/Transaction Signing.md",
     "Literature Notes/Intro to Blockchain & Smart contracts.md",
-    "Permanent Notes/Blockchain ⛓/What is mining?.md",
+    "Permanent Notes/Blockchain ⛓/Externally Owned Accounts.md",
     "Permanent Notes/Blockchain ⛓/Smart Contracts.md",
-    "Permanent Notes/Blockchain ⛓/What is a blockchain.md",
-    "Permanent Notes/Blockchain ⛓/Proof-of-Work (PoW).md",
-    "Permanent Notes/Blockchain ⛓/Proof-of-Stake (PoS).md",
-    "Permanent Notes/Blockchain ⛓/Ethereum Keypairs.md",
-    "Permanent Notes/Blockchain ⛓/Externally Owned Accounts.md"
+    "Permanent Notes/Blockchain ⛓/Message Calls.md",
+    "Permanent Notes/Blockchain ⛓/Solidity Syntax.md",
+    "Permanent Notes/Blockchain ⛓/DELEGATECALL.md",
+    "Permanent Notes/Blockchain ⛓/Blocktime.md",
+    "Permanent Notes/Blockchain ⛓/Ethereum Contract Execution.md",
+    "Permanent Notes/Blockchain ⛓/Ethereum Computation Requirements.md",
+    "Permanent Notes/Blockchain ⛓/What is a blockchain.md"
   ]
 }
