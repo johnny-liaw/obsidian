@@ -6,10 +6,10 @@
 - State changes through transactions, essentially a [[State Transition System]]
 
 ## Parts of Ethereum
-- [[Externally Owned Accounts]]
+- [[Ethereum Accounts]]
 - [[Ethereum State]]
 - [[ Ethereum Gas and Fees]]
 - [[Ethereum Blocks]]
 - [[Ethereum Transaction Execution]]
 - [[Ethereum Mining]]
-- [[Ethereum Proof of Work]]
+- Ethereum [[Proof-of-Work (PoW)]]

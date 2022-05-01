@@ -14,6 +14,18 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "e5a1b3df245bbca4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Permanent Notes/Blockchain ⛓/Ethereum Accounts.md",
+            "mode": "source",
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -70,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Permanent Notes/Blockchain ⛓/How Ethereum Works.md",
+                "file": "Permanent Notes/Blockchain ⛓/Ethereum Accounts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Permanent Notes/Blockchain ⛓/How Ethereum Works.md"
+                "file": "Permanent Notes/Blockchain ⛓/Ethereum Accounts.md"
               }
             }
           },
@@ -118,8 +130,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0150b5bd38d01d4d",
+  "active": "e5a1b3df245bbca4",
   "lastOpenFiles": [
+    "Permanent Notes/Blockchain ⛓/Ethereum Accounts.md",
     "Permanent Notes/Blockchain ⛓/How Ethereum Works.md",
     "Permanent Notes/Blockchain ⛓/Externally Owned Accounts.md",
     "Permanent Notes/Blockchain ⛓/Smart Contracts.md",
@@ -128,7 +141,6 @@
     "Permanent Notes/Blockchain ⛓/Message Calls.md",
     "Permanent Notes/Blockchain ⛓/Solidity Syntax.md",
     "Permanent Notes/Blockchain ⛓/DELEGATECALL.md",
-    "Permanent Notes/Blockchain ⛓/Ethereum Computation Requirements.md",
-    "Permanent Notes/Blockchain ⛓/Untitled Kanban.md"
+    "Permanent Notes/Blockchain ⛓/Ethereum Computation Requirements.md"
   ]
 }
