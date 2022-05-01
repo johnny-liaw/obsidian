@@ -26,6 +26,14 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "cc28f8749d4293ff",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -52,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ethereum",
+                "query": "tag:#untagged",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -61,7 +69,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -133,9 +142,9 @@
   "active": "e5a1b3df245bbca4",
   "lastOpenFiles": [
     "Permanent Notes/Blockchain ⛓/Ethereum Accounts.md",
-    "Permanent Notes/Blockchain ⛓/How Ethereum Works.md",
     "Permanent Notes/Blockchain ⛓/Externally Owned Accounts.md",
     "Permanent Notes/Blockchain ⛓/Smart Contracts.md",
+    "Permanent Notes/Blockchain ⛓/How Ethereum Works.md",
     "Permanent Notes/Blockchain ⛓/What is a blockchain.md",
     "Permanent Notes/Blockchain ⛓/What is mining?.md",
     "Permanent Notes/Blockchain ⛓/Message Calls.md",
