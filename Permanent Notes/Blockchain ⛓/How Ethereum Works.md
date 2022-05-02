@@ -11,6 +11,7 @@
 - [[Ethereum Gas and Fees]]
 - [[Ethereum Blocks]]
 - [[Ethereum Transaction Execution]]
+- [[Ethereum Virtual Machine]]
 - [[Ethereum Mining]]
 - Ethereum [[Proof-of-Work (PoW)]]
 
