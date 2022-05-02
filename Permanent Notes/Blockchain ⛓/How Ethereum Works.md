@@ -8,7 +8,7 @@
 ## Parts of Ethereum
 - [[Ethereum Accounts]]
 - [[Ethereum State]]
-- [[ Ethereum Gas and Fees]]
+- [[Ethereum Gas and Fees]]
 - [[Ethereum Blocks]]
 - [[Ethereum Transaction Execution]]
 - [[Ethereum Mining]]

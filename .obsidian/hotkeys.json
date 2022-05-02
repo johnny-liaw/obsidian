@@ -212,5 +212,14 @@
       ],
       "key": "F"
     }
+  ],
+  "templater-obsidian:Templates/Permanent Note.md": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "P"
+    }
   ]
 }

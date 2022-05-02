@@ -14,6 +14,8 @@ Last modified: <% tp.file.last_modified_date("DD/MM/YYYY HH:mm:ss") %>
 - [[nonce]]: The number of transactions in the account
 - balance: the number of [[Ethereum Wei]] owned by the address
 - [[Ethereum storageRoot]]: 
+- [[Ethereum codeHash]]: The hash of the EVM code of this account.
+
 
 
 #### Tags
