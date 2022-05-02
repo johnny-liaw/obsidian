@@ -13,3 +13,7 @@
 - [[Ethereum Transaction Execution]]
 - [[Ethereum Mining]]
 - Ethereum [[Proof-of-Work (PoW)]]
+
+https://medium.com/@eiki1212/ethereum-state-trie-architecture-explained-a30237009d4e
+https://medium.com/cybermiles/diving-into-ethereums-world-state-c893102030ed
+https://www.preethikasireddy.com/post/how-does-ethereum-work-anyway
