@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Permanent Notes/Blockchain ⛓/Hash Function.md",
+            "file": "Ad Astra/2022-03-08.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#untagged",
+                "query": "private key",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Permanent Notes/Blockchain ⛓/Hash Function.md",
+                "file": "Ad Astra/2022-03-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Permanent Notes/Blockchain ⛓/Hash Function.md"
+                "file": "Ad Astra/2022-03-08.md"
               }
             }
           },
@@ -120,15 +120,15 @@
   },
   "active": "0b91a0a0cfe601a1",
   "lastOpenFiles": [
+    "Ad Astra/2022-03-08.md",
+    "Ad Astra/2021-09-21.md",
+    "Ad Astra/2021-09-22.md",
     "Permanent Notes/Blockchain ⛓/Hash Function.md",
     "Permanent Notes/Blockchain ⛓/How Ethereum Works.md",
     "Permanent Notes/Blockchain ⛓/Ethereum Gas and Fees.md",
     "Permanent Notes/Blockchain ⛓/Ethereum Computation Requirements.md",
     "Permanent Notes/Blockchain ⛓/Ethereum Transaction Execution.md",
     "Permanent Notes/Blockchain ⛓/Ethereum Virtual Machine.md",
-    "Permanent Notes/Blockchain ⛓/Ethereum State.md",
-    "Permanent Notes/Blockchain ⛓/Merkle Patricia Tree.md",
-    "Attachments/Pasted image 20220502213607.png",
-    "Permanent Notes/Blockchain ⛓/What is a blockchain.md"
+    "Permanent Notes/Blockchain ⛓/Ethereum State.md"
   ]
 }
