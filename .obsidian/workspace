@@ -7,8 +7,12 @@
         "id": "0b91a0a0cfe601a1",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Permanent Notes/Blockchain ⛓/Hash Function.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -66,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Permanent Notes/Blockchain ⛓/Hash Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +97,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Permanent Notes/Blockchain ⛓/Hash Function.md"
+              }
             }
           },
           {
@@ -113,15 +120,15 @@
   },
   "active": "0b91a0a0cfe601a1",
   "lastOpenFiles": [
-    "Permanent Notes/Blockchain ⛓/Ethereum Computation Requirements.md",
+    "Permanent Notes/Blockchain ⛓/Hash Function.md",
     "Permanent Notes/Blockchain ⛓/How Ethereum Works.md",
     "Permanent Notes/Blockchain ⛓/Ethereum Gas and Fees.md",
+    "Permanent Notes/Blockchain ⛓/Ethereum Computation Requirements.md",
     "Permanent Notes/Blockchain ⛓/Ethereum Transaction Execution.md",
     "Permanent Notes/Blockchain ⛓/Ethereum Virtual Machine.md",
     "Permanent Notes/Blockchain ⛓/Ethereum State.md",
     "Permanent Notes/Blockchain ⛓/Merkle Patricia Tree.md",
     "Attachments/Pasted image 20220502213607.png",
-    "Permanent Notes/Blockchain ⛓/What is a blockchain.md",
-    "Permanent Notes/Blockchain ⛓/Untitled Kanban.md"
+    "Permanent Notes/Blockchain ⛓/What is a blockchain.md"
   ]
 }
