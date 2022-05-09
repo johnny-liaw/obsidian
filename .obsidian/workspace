@@ -7,8 +7,12 @@
         "id": "0b91a0a0cfe601a1",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Permanent Notes/Blockchain ⛓/Untitled.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -49,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352,
-    "collapsed": true
+    "width": 352
   },
   "right": {
     "id": "2120d96e7bb5030a",
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Permanent Notes/Blockchain ⛓/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +96,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Permanent Notes/Blockchain ⛓/Untitled.md"
+              }
             }
           },
           {
@@ -113,6 +119,7 @@
   },
   "active": "0b91a0a0cfe601a1",
   "lastOpenFiles": [
+    "Permanent Notes/Blockchain ⛓/Untitled.md",
     "Ad Astra/2022-03-08.md",
     "Ad Astra/2021-09-21.md",
     "Ad Astra/2021-09-22.md",
@@ -121,7 +128,6 @@
     "Permanent Notes/Blockchain ⛓/Ethereum Gas and Fees.md",
     "Permanent Notes/Blockchain ⛓/Ethereum Computation Requirements.md",
     "Permanent Notes/Blockchain ⛓/Ethereum Transaction Execution.md",
-    "Permanent Notes/Blockchain ⛓/Ethereum Virtual Machine.md",
-    "Permanent Notes/Blockchain ⛓/Ethereum State.md"
+    "Permanent Notes/Blockchain ⛓/Ethereum Virtual Machine.md"
   ]
 }
