@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Permanent Notes/Blockchain ⛓/Untitled.md",
+            "file": "Fleeting Notes/Lecture 1 - Solidity Deepdive.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Permanent Notes/Blockchain ⛓/Untitled.md",
+                "file": "Fleeting Notes/Lecture 1 - Solidity Deepdive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Permanent Notes/Blockchain ⛓/Untitled.md"
+                "file": "Fleeting Notes/Lecture 1 - Solidity Deepdive.md"
               }
             }
           },
@@ -119,6 +119,7 @@
   },
   "active": "0b91a0a0cfe601a1",
   "lastOpenFiles": [
+    "Fleeting Notes/Lecture 1 - Solidity Deepdive.md",
     "Permanent Notes/Blockchain ⛓/Untitled.md",
     "Ad Astra/2022-03-08.md",
     "Ad Astra/2021-09-21.md",
@@ -127,7 +128,6 @@
     "Permanent Notes/Blockchain ⛓/How Ethereum Works.md",
     "Permanent Notes/Blockchain ⛓/Ethereum Gas and Fees.md",
     "Permanent Notes/Blockchain ⛓/Ethereum Computation Requirements.md",
-    "Permanent Notes/Blockchain ⛓/Ethereum Transaction Execution.md",
-    "Permanent Notes/Blockchain ⛓/Ethereum Virtual Machine.md"
+    "Permanent Notes/Blockchain ⛓/Ethereum Transaction Execution.md"
   ]
 }
