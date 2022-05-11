@@ -14,4 +14,22 @@ the `Environment` runs an EVM in your browser.
 
 - `CallData` :
 	- immutable
-	- 
+
+#### Arrays
+```solidity
+Arrays can be fixed sized or dynamic
+uint [] public arr;
+uint[10] public arrFixed;
+```
+
+Arrays tend to be expensive in solidity.
+- has methods like push and pop
+
+#### Error handling
+- require -> for validating certain conditions (most common)
+- revert -> used when the conditional check is more complex
+- assert -> what's the diff b/w this and require?
+- `error InsufficientBalance(uint blance)`
+
+#### Modifiers
+- Preconditions check
