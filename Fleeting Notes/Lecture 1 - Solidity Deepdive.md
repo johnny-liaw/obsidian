@@ -33,3 +33,14 @@ Arrays tend to be expensive in solidity.
 
 #### Modifiers
 - Preconditions check
+
+#### Payable
+For the contract to be able to receive ether
+
+#### Ways to send Ether
+- Transfer
+- Send
+- call
+
+#### Receiving Ether
+- `receive` keyword for contracts to receive ethe[]()r
