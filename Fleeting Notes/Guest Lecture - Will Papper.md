@@ -14,5 +14,10 @@ Between 2017 -> 2020 several things came out:
 - Moloch: on chain governance protocol, allows for proposals to be submitted?
 
 - compound DAO vs moloch DAO
-- 
 
+- DAO onboarding
+- DAO coordination / project management
+- Index coop for developing protocols
+- Olympus dao is quite accessible.
+
+- There's a community direction and protocol direction for DAOs, what? 
