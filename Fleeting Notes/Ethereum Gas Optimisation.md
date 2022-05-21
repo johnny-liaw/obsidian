@@ -44,4 +44,5 @@ However, a caveat for this is that if it's only called by external functions / c
 
 
 #### References
+https://blog.polymath.network/solidity-tips-and-tricks-to-save-gas-and-reduce-bytecode-size-c44580b218e6
 
