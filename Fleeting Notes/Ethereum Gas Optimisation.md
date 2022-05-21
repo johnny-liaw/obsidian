@@ -32,6 +32,14 @@ However, a caveat for this is that if it's only called by external functions / c
 
 5. Accessing local variable is much cheaper than accessing the value in storage
 
+6. use localised variables vs repeated array/map accesses
+
+7. `++i` is better than `i++` because the former returns the incremented value immediately, whereas the latter stored the previous value, before returning the incremented value.
+
+8. using `unchecked` to avoid unnecessary overflow/underflow checks
+
+
+
 #### Tags
 
 
