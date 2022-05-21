@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Permanent Notes/Blockchain ⛓/Solidity Syntax.md",
+            "file": "Fleeting Notes/Ethereum Gas Optimisation.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "private key",
+                "query": "calldata",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352,
-    "collapsed": true
+    "width": 352
   },
   "right": {
     "id": "2120d96e7bb5030a",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Permanent Notes/Blockchain ⛓/Solidity Syntax.md",
+                "file": "Fleeting Notes/Ethereum Gas Optimisation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Permanent Notes/Blockchain ⛓/Solidity Syntax.md"
+                "file": "Fleeting Notes/Ethereum Gas Optimisation.md"
               }
             }
           },
@@ -120,6 +119,7 @@
   },
   "active": "0b91a0a0cfe601a1",
   "lastOpenFiles": [
+    "Fleeting Notes/Ethereum Gas Optimisation.md",
     "Permanent Notes/Blockchain ⛓/Solidity Syntax.md",
     "Fleeting Notes/Guest Lecture - Will Papper.md",
     "Permanent Notes/Blockchain ⛓/DAOs.md",
@@ -128,7 +128,6 @@
     "Ad Astra/2022-03-08.md",
     "Ad Astra/2021-09-21.md",
     "Ad Astra/2021-09-22.md",
-    "Permanent Notes/Blockchain ⛓/Hash Function.md",
-    "Permanent Notes/Blockchain ⛓/How Ethereum Works.md"
+    "Permanent Notes/Blockchain ⛓/Hash Function.md"
   ]
 }
