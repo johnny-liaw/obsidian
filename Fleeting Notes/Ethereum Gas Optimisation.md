@@ -39,6 +39,9 @@ However, a caveat for this is that if it's only called by external functions / c
 8. using `unchecked` to avoid unnecessary overflow/underflow checks
 
 
+# Security
+- Open zeppelin security audits to learn about security practices
+- rekt.news
 
 #### Tags
 
