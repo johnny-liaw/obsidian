@@ -13,7 +13,7 @@ Last modified: 23/05/2022 00:03:31
 	- payment channels / plasma
 
 ### Side chains
-
+### Optimistic vs zk rollups
 
 
 #### Tags
