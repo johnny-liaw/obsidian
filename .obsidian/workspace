@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fleeting Notes/Ethereum Gas Optimisation.md",
+            "file": "Fleeting Notes/Advaned Dapp Development.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting Notes/Ethereum Gas Optimisation.md",
+                "file": "Fleeting Notes/Advaned Dapp Development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleeting Notes/Ethereum Gas Optimisation.md"
+                "file": "Fleeting Notes/Advaned Dapp Development.md"
               }
             }
           },
@@ -119,6 +119,7 @@
   },
   "active": "0b91a0a0cfe601a1",
   "lastOpenFiles": [
+    "Fleeting Notes/Advaned Dapp Development.md",
     "Fleeting Notes/Ethereum Gas Optimisation.md",
     "Permanent Notes/Blockchain ⛓/Solidity Syntax.md",
     "Fleeting Notes/Guest Lecture - Will Papper.md",
@@ -127,7 +128,6 @@
     "Fleeting Notes/Lecture 1 - Solidity Deepdive.md",
     "Ad Astra/2022-03-08.md",
     "Ad Astra/2021-09-21.md",
-    "Ad Astra/2021-09-22.md",
-    "Permanent Notes/Blockchain ⛓/Hash Function.md"
+    "Ad Astra/2021-09-22.md"
   ]
 }
