@@ -11,11 +11,14 @@
             "id": "0b91a0a0cfe601a1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Fleeting Notes/Ethereum Gas Optimisation.md",
-                "mode": "source",
-                "source": false
+                "file": "Canva/intall_fixed.tsx.canvas",
+                "viewState": {
+                  "x": 221,
+                  "y": 254,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting Notes/Ethereum Gas Optimisation.md",
+                "file": "Canva/intall_fixed.tsx.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleeting Notes/Ethereum Gas Optimisation.md"
+                "file": "Canva/intall_fixed.tsx.canvas"
               }
             }
           },
@@ -151,7 +154,10 @@
   },
   "active": "0b91a0a0cfe601a1",
   "lastOpenFiles": [
+    "Canva/intall_fixed.tsx.canvas",
+    "Canva/Untitled.md",
     "Fleeting Notes/Ethereum Gas Optimisation.md",
+    "Canva",
     "Fleeting Notes/Advaned Dapp Development.md",
     "Permanent Notes/Blockchain ⛓/Solidity Syntax.md",
     "Fleeting Notes/Guest Lecture - Will Papper.md",

@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"type":"text","text":"installFillRendering","id":"3c63f939f2b55c20","x":-40,"y":20,"width":250,"height":60,"color":"5"},
+		{"id":"9d0eaecdf87502d9","x":-48,"y":228,"width":250,"height":60,"color":"6","type":"text","text":"FillConfiguration"},
+		{"id":"c1637d5e18e91e85","x":-440,"y":228,"width":265,"height":60,"color":"6","type":"text","text":"ViewableComplexPathView"},
+		{"id":"7711a804f019c54b","x":320,"y":228,"width":254,"height":60,"color":"6","type":"text","text":"ViewableSimplePathView"}
+	],
+	"edges":[
+		{"id":"9eadbc5b2e3e91e2","fromNode":"3c63f939f2b55c20","fromSide":"bottom","toNode":"c1637d5e18e91e85","toSide":"top"},
+		{"id":"56a0b0d88ae86289","fromNode":"3c63f939f2b55c20","fromSide":"bottom","toNode":"9d0eaecdf87502d9","toSide":"top"},
+		{"id":"65620fd6b7fcc5c4","fromNode":"3c63f939f2b55c20","fromSide":"bottom","toNode":"7711a804f019c54b","toSide":"top"}
+	]
+}
