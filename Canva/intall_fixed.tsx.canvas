@@ -3,14 +3,17 @@
 		{"type":"text","text":"installFillRendering","id":"3c63f939f2b55c20","x":-40,"y":20,"width":250,"height":60,"color":"5"},
 		{"type":"text","text":"FillConfiguration","id":"9d0eaecdf87502d9","x":-48,"y":228,"width":250,"height":60,"color":"6"},
 		{"type":"text","text":"ViewableComplexPathView","id":"c1637d5e18e91e85","x":-460,"y":228,"width":265,"height":60,"color":"6"},
-		{"type":"text","text":"ViewableElementConfig","id":"4f9c148e850ee29a","x":720,"y":228,"width":254,"height":60,"color":"6"},
 		{"type":"text","text":"ViewableSimplePathView","id":"7711a804f019c54b","x":-1120,"y":228,"width":254,"height":60,"color":"6"},
-		{"type":"text","text":"installShapeEditing","id":"d0111ad2ffe72785","x":-320,"y":560,"width":250,"height":60,"color":"5"},
-		{"type":"text","text":"installFillEditing","id":"63f98350cbf2b76d","x":28,"y":560,"width":250,"height":60,"color":"5"},
 		{"type":"text","text":"installShapeRendering","id":"73537dbad854c829","x":-1120,"y":560,"width":250,"height":60,"color":"5"},
-		{"type":"text","text":"installPageRendering","id":"d75e379427f5301a","x":-780,"y":560,"width":250,"height":60,"color":"5"},
 		{"type":"text","text":"installRectRendering","id":"5f5fa14be456ae5a","x":-1420,"y":560,"width":250,"height":60,"color":"5"},
-		{"id":"c01ea9d5485bfb8f","x":-1080,"y":460,"width":371,"height":511,"type":"text","text":""}
+		{"type":"text","text":"installPageRendering","id":"d75e379427f5301a","x":-800,"y":560,"width":250,"height":60,"color":"5"},
+		{"type":"text","text":"installShapeEditing","id":"d0111ad2ffe72785","x":-290,"y":560,"width":250,"height":60,"color":"5"},
+		{"type":"text","text":"installFillEditing","id":"63f98350cbf2b76d","x":20,"y":560,"width":250,"height":60,"color":"5"},
+		{"type":"text","text":"installGridEditing","id":"1478e087b7a5e955","x":320,"y":560,"width":250,"height":60,"color":"5"},
+		{"type":"text","text":"installRectEditing","id":"b9071ce772872ff7","x":640,"y":560,"width":250,"height":60,"color":"5"},
+		{"type":"text","text":"installPageEditing","id":"c0da871b2d0d5934","x":974,"y":560,"width":250,"height":60,"color":"5"},
+		{"type":"text","text":"installArrangement","id":"1874853733a1bcd6","x":1300,"y":560,"width":250,"height":60,"color":"5"},
+		{"type":"text","text":"ViewableElementConfig","id":"4f9c148e850ee29a","x":-780,"y":228,"width":254,"height":60,"color":"6"}
 	],
 	"edges":[
 		{"id":"9eadbc5b2e3e91e2","fromNode":"3c63f939f2b55c20","fromSide":"bottom","toNode":"c1637d5e18e91e85","toSide":"top"},
