@@ -15,8 +15,8 @@
               "state": {
                 "file": "Canva/intall_fixed.tsx.canvas",
                 "viewState": {
-                  "x": 1026.161929169224,
-                  "y": 87.22931156087782,
+                  "x": 1143.3419291692242,
+                  "y": 151.8643115608778,
                   "zoom": 1
                 }
               }
@@ -72,7 +72,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352
+    "width": 352,
+    "collapsed": true
   },
   "right": {
     "id": "2120d96e7bb5030a",
