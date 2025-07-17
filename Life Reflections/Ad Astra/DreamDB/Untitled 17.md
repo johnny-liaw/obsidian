@@ -1,0 +1,4 @@
+---
+Story: Had a dream that I was in a church, and on stage was a couple of pastors that were in a panel or something. And then I think I saw someone really beautiful, she’s asian and she has puffy hair. The pastor was talking about sex and relationships or something. He said if you get a girl pregnant you die (pre martial thingo). Afterwards I got transported to a scene, with Adam and Justine. Wanted to do approaches, and Justine was like is this legal, is this fine? And she walked off, she wasin’t cool wtih it. I then started telling Adam what happened after I came up, cus I didn’t want to do training anymore. I felt like I never want to work for my self esteem again.I feel like the gist of that dream is that I work for my self esteem, and my need for a relationship, cus I find comfort in it.
+Date: 2024-09-22
+---
