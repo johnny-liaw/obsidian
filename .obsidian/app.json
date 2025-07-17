@@ -1,7 +1,7 @@
 {
   "foldIndent": true,
   "showLineNumber": false,
-  "vimMode": true,
+  "vimMode": false,
   "promptDelete": false,
   "foldHeading": true,
   "alwaysUpdateLinks": true,

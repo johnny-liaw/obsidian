@@ -11,18 +11,36 @@
             "id": "0b91a0a0cfe601a1",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Canva/intall_fixed.tsx.canvas",
-                "viewState": {
-                  "x": 1143.3419291692242,
-                  "y": 151.8643115608778,
-                  "zoom": 1
-                }
+                "file": "Other/HIA Contract.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c572c583bccb3889",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
+              }
+            }
+          },
+          {
+            "id": "93c35fb78ba0beec",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -72,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352,
-    "collapsed": true
+    "width": 352
   },
   "right": {
     "id": "2120d96e7bb5030a",
@@ -89,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Canva/intall_fixed.tsx.canvas",
+                "file": "Other/HIA Contract.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Canva/intall_fixed.tsx.canvas"
+                "file": "Other/HIA Contract.md"
               }
             }
           },
@@ -128,14 +145,25 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "7110ae3d96c546fb",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
           }
         ],
         "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -153,8 +181,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0b91a0a0cfe601a1",
+  "active": "93c35fb78ba0beec",
   "lastOpenFiles": [
+    "Attachments/600582 - CONTRACT 1.pdf",
+    "Attachments/600582 - CONTRACT.pdf",
+    "Other/Untitled.md",
+    "Other/HIA Contract.md",
     "Canva/intall_fixed.tsx.canvas",
     "Canva/Untitled.md",
     "Fleeting Notes/Ethereum Gas Optimisation.md",
