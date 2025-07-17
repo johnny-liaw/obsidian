@@ -23,24 +23,19 @@
             "id": "c572c583bccb3889",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "canvas",
               "state": {
-                "currentVersion": "1.4.5"
-              }
-            }
-          },
-          {
-            "id": "93c35fb78ba0beec",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.3"
+                "file": "Canva/intall_fixed.tsx.canvas",
+                "viewState": {
+                  "x": 65,
+                  "y": 280,
+                  "zoom": -0.5896067288229189
+                }
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Other/HIA Contract.md",
+                "file": "Canva/intall_fixed.tsx.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Other/HIA Contract.md"
+                "file": "Canva/intall_fixed.tsx.canvas"
               }
             }
           },
@@ -181,7 +176,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "93c35fb78ba0beec",
+  "active": "c572c583bccb3889",
   "lastOpenFiles": [
     "Attachments/600582 - CONTRACT 1.pdf",
     "Attachments/600582 - CONTRACT.pdf",
